@@ -2,214 +2,38 @@
     "items": [
         {
             "position": "Conference Chairs",
-            "email": "conference@icaps2024.com",
+            "email": "conference@icaps2025.com",
             "people": [
                 {
-                    "name": "Sheila McIlraith",
-                    "institution": "University of Toronto",
-                    "country": "Canada"
+                    "name": "Nir Lipovetzky",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
                 },
                 {
-                    "name": "Nathan Sturtevant",
-                    "institution": "University of Alberta",
-                    "country": "Canada"
+                    "name": "Sebastian Sardina",
+                    "institution": "RMIT University",
+                    "country": "Australia"
                 }
             ]
         },
         {
             "position": "Program Chairs",
-            "email": "program@icaps2024.com",
+            "email": "program@icaps2025.com",
             "people": [
                 {
-                    "name": "Sara Bernardini",
-                    "institution": "Royal Holloway University of London",
-                    "country": "UK"
+                    "name": "Daniel Harabor",
+                    "institution": "Monash University",
+                    "country": "Australia"
                 },
                 {
-                    "name": "Christian Muise",
-                    "institution": "Queen's University",
-                    "country": "Canada"
-                }
-            ]
-        },
-        {
-            "position": "Local Arrangements Chair",
-            "people": [
-                {
-                    "name": "Jonathan Schaeffer",
-                    "institution": "University of Alberta",
-                    "country": "Canada"
-                }
-            ]
-        },
-        {
-            "position": "Tutorials Chairs",
-            "email": "tutorials@icaps2024.com",
-            "people": [
+                    "name": "Julie Porteous",
+                    "institution": "RMIT University",
+                    "country": "Australia"
+                },
                 {
                     "name": "Miquel Ramirez",
                     "institution": "University of Melbourne",
                     "country": "Australia"
-                },
-                {
-                    "name": "Christina Burt",
-                    "institution": "University of Melbourne",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Workshops Chairs",
-            "email": "workshops@icaps2024.com",
-            "people": [
-                {
-                    "name": "Shirin Sohrabi",
-                    "institution": "IBM Research",
-                    "country": "USA"
-                },
-                {
-                    "name": "Biplav Srivastava",
-                    "institution": "University of South Carolina",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Doctoral Consortium Chairs",
-            "email": "dc@icaps2024.com",
-            "people": [
-                {
-                    "name": "Eldan Cohen",
-                    "institution": "University of Toronto",
-                    "country": "Canada"
-                },
-                {
-                    "name": "Sandhya Saisubramanian",
-                    "institution": "Oregon State University",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "System Demonstration Chairs",
-            "email": "demonstrations@icaps2024.com",
-            "people": [
-                {
-                    "name": "Jiaoyang Li",
-                    "institution": "Carnegie Mellon University",
-                    "country": "USA"
-                },
-                {
-                    "name": "Sarath Sreedharan",
-                    "institution": "Colorado State University",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Summer School Chairs",
-            "email": "summerschool@icaps2024.com",
-            "people": [
-                {
-                    "name" : "Jane Jean Kiam",
-                    "institution": "Universität der Bundeswehr München",
-                    "country" : "Germany"
-                },
-                {
-                    "name": "Sarah Keren",
-                    "institution": "Israel Institute of Technology",
-                    "country": "Israel"
-                },
-                {
-                    "name": "Pascal Bercher",
-                    "institution": "Australian National University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Publicity Chairs",
-            "email": "publicity@icaps2024.com",
-            "people": [
-                {
-                    "name": "Gloria Beraldo",
-                    "institution": "National Research Council of Italy (CNR-ISTC)",
-                    "country": "Italy"
-                },
-                {
-                    "name": "Zlatan Ajanović",
-                    "institution": "RWTH Aachen University",
-                    "country": "Germany"
-                },
-                {
-                    "name": "Charles Gretton",
-                    "institution": "Australian National University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Diversity and Inclusion Chairs",
-            "email": "diversity@icaps2024.com",
-            "people": [
-                {
-                    "name": "J. Benton",
-                    "institution": "NASA Ames Research Center",
-                    "country": "USA"
-                },
-                {
-                    "name": "Iman Awaad",
-                    "institution": "Bonn-Rhein-Sieg University",
-                    "country": "Germany"
-                }
-            ]
-        },
-        {
-            "position": "Sponsorship Chair",
-            "people": [
-                {
-                    "name": "Mark Boddy",
-                    "country": "United States"
-                }
-            ]
-        },
-        {
-            "position": "Senior Conference Advisor",
-            "people": [
-                {
-                    "name": "Rob Holte",
-                    "institution": "University of Alberta",
-                    "country": "Canada"
-                }
-            ]
-        },
-        {
-            "position": "Workflow Chairs",
-            "people": [
-                {
-                    "name": "Riccardo De Benedictis",
-                    "institution": "National Research Council of Italy (CNR-ISTC)",
-                    "country": "Italy"
-                },
-                {
-                    "name": "Alessandro Umbrico",
-                    "institution": "National Research Council of Italy (CNR-ISTC)",
-                    "country": "Italy"
-                }
-            ]
-        },
-        {
-            "position": "ICAPS 2024 Advocates",
-            "people": [
-                {
-                    "name": "Jonathan Schaeffer",
-                    "institution": "University of Alberta",
-                    "country": "Canada"
-                },
-                {
-                    "name": "Iman Awaad",
-                    "institution": "Bonn-Rhein-Sieg University",
-                    "country": "Germany"
                 }
             ]
         }
