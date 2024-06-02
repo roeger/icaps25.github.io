@@ -43,57 +43,57 @@ theme = 'mainroad'
 #    parent = "competitions"
 #    weight = 10
 # STUDENTS
-  [[menu.main]]
-    identifier = "students"
-    name = "Students"
-    weight = 4000
-  [[menu.main]]
-    identifier = "summerschool"
-    name = "Summer School"
-    url = "/summerschool"
-    parent = "students"
-    weight = 100
-  [[menu.main]]
-    identifier = "dc"
-    name = "Doctoral Consortium"
-    url = "/calls/dc"
-    parent = "students"
-    weight = 200
-# ATTENDING
-  [[menu.main]]
-    identifier = "attending"
-    name = "Attending"
-    weight = 3000
-  [[menu.main]]
-    identifier = "venue"
-    name = "Venue"
-    url = "/attending/venue"
-    parent = "attending"
-    weight = 10
-  [[menu.main]]
-    identifier = "travel"
-    name = "Travel Information"
-    url = "/attending/travel"
-    parent = "attending"
-    weight = 20
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/attending/registration"
-    parent = "attending"
-    weight = "30"
+#  [[menu.main]]
+#    identifier = "students"
+#    name = "Students"
+#    weight = 4000
+#  [[menu.main]]
+#    identifier = "summerschool"
+#    name = "Summer School"
+#    url = "/summerschool"
+#    parent = "students"
+#    weight = 100
+#  [[menu.main]]
+#    identifier = "dc"
+#    name = "Doctoral Consortium"
+#    url = "/calls/dc"
+#    parent = "students"
+#    weight = 200
+## ATTENDING
+#  [[menu.main]]
+#    identifier = "attending"
+#    name = "Attending"
+#    weight = 3000
+#  [[menu.main]]
+#    identifier = "venue"
+#    name = "Venue"
+#    url = "/attending/venue"
+#    parent = "attending"
+#    weight = 10
+#  [[menu.main]]
+#    identifier = "travel"
+#    name = "Travel Information"
+#    url = "/attending/travel"
+#    parent = "attending"
+#    weight = 20
+#  [[menu.main]]
+#    identifier = "registration"
+#    name = "Registration"
+#    url = "/attending/registration"
+#    parent = "attending"
+#    weight = "30"
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-  [[menu.main]]
-    identifier = "accommodation"
-    name = "Accommodation"
-    url = "/attending/accommodation"
-    parent = "attending"
-    weight = "40"
+#  [[menu.main]]
+#    identifier = "accommodation"
+#    name = "Accommodation"
+#    url = "/attending/accommodation"
+#    parent = "attending"
+#    weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
@@ -101,16 +101,16 @@ theme = 'mainroad'
 #    parent = "attending"
 #    weight = "50"
 ## CALLS
-  [[menu.main]]
-    identifier = "calls"
-    name = "Calls"
-    weight = 4000
-  [[menu.main]]
-    identifier = "main_track"
-    name = "Call for Papers"
-    url = "/calls/main_track"
-    parent = "calls"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "calls"
+#    name = "Calls"
+#    weight = 4000
+#  [[menu.main]]
+#    identifier = "main_track"
+#    name = "Call for Papers"
+#    url = "/calls/main_track"
+#    parent = "calls"
+#    weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
@@ -129,42 +129,42 @@ theme = 'mainroad'
 #    url = "/calls/robotics_track"
 #    parent = "calls"
 #    weight = 40
-  [[menu.main]]
-    identifier = "previously_published_papers"
-    name = "Previously Published Papers Track"
-    url = "/calls/previously_published_papers"
-    parent = "calls"
-    weight = 45
-  [[menu.main]]
-    identifier = "workshop_call"
-    name = "Call for Workshop Proposals"
-    url = "/calls/workshop_call"
-    parent = "calls"
-    weight = 50
-  [[menu.main]]
-    identifier = "tutorial_call"
-    name = "Call for Tutorial Proposals"
-    url = "/calls/tutorial_call"
-    parent = "calls"
-    weight = 50
-  [[menu.main]]
-    identifier = "demos_call"
-    name = "Call for System Demonstrations"
-    url = "/calls/demos"
-    parent = "calls"
-    weight = 70
- [[menu.main]]
-   identifier = "dc_call"
-   name = "Call for Doctoral Consortium"
-   url = "/calls/dc"
-   parent = "calls"
-   weight = 80
- [[menu.main]]
-   identifier = "ss_call"
-   name = "Call for Summer School"
-   url = "/summerschool"
-   parent = "calls"
-   weight = 90
+#  [[menu.main]]
+#    identifier = "previously_published_papers"
+#    name = "Previously Published Papers Track"
+#    url = "/calls/previously_published_papers"
+#    parent = "calls"
+#    weight = 45
+#  [[menu.main]]
+#    identifier = "workshop_call"
+#    name = "Call for Workshop Proposals"
+#    url = "/calls/workshop_call"
+#    parent = "calls"
+#    weight = 50
+#  [[menu.main]]
+#    identifier = "tutorial_call"
+#    name = "Call for Tutorial Proposals"
+#    url = "/calls/tutorial_call"
+#    parent = "calls"
+#    weight = 50
+#  [[menu.main]]
+#    identifier = "demos_call"
+#    name = "Call for System Demonstrations"
+#    url = "/calls/demos"
+#    parent = "calls"
+#    weight = 70
+# [[menu.main]]
+#   identifier = "dc_call"
+#   name = "Call for Doctoral Consortium"
+#   url = "/calls/dc"
+#   parent = "calls"
+#   weight = 80
+# [[menu.main]]
+#   identifier = "ss_call"
+#   name = "Call for Summer School"
+#   url = "/summerschool"
+#   parent = "calls"
+#   weight = 90
 #  [[menu.main]]
 #    identifier = "partnership_call"
 #    name = "Call for Partnership"
@@ -184,164 +184,164 @@ theme = 'mainroad'
 #    url="/submissions"
 #    weight = 6000
 # PROGRAM
- [[menu.main]]
-   identifier = "program"
-   name = "Program"
-   weight = 7000
- [[menu.main]]
-   identifier = "overview"
-   name = "Overview"
-   url = "/program/overview"
-   parent = "program"
-   weight = 10
- [[menu.main]]
-   identifier = "schedule"
-   name = "Schedule"
-   url = "/program/schedule"
-   parent = "program"
-   weight = 13
- [[menu.main]]
-   identifier = "accepted-papers"
-   name = "Accepted Papers"
-   url = "/program/accepted"
-   parent = "program"
-   weight = "15"
- [[menu.main]]
-   identifier = "awards"
-    name = "Awards"
-    url = "/program/awards"
-    parent = "program"
-    weight = 20
- [[menu.main]]
-   identifier = "demos"
-    name = "Demos"
-    url = "/program/demos"
-    parent = "program"
-    weight = 20
+# [[menu.main]]
+#   identifier = "program"
+#   name = "Program"
+#   weight = 7000
+# [[menu.main]]
+#   identifier = "overview"
+#   name = "Overview"
+#   url = "/program/overview"
+#   parent = "program"
+#   weight = 10
+# [[menu.main]]
+#   identifier = "schedule"
+#   name = "Schedule"
+#   url = "/program/schedule"
+#   parent = "program"
+#   weight = 13
+# [[menu.main]]
+#   identifier = "accepted-papers"
+#   name = "Accepted Papers"
+#   url = "/program/accepted"
+#   parent = "program"
+#   weight = "15"
+# [[menu.main]]
+#   identifier = "awards"
+#    name = "Awards"
+#    url = "/program/awards"
+#    parent = "program"
+#    weight = 20
+# [[menu.main]]
+#   identifier = "demos"
+#    name = "Demos"
+#    url = "/program/demos"
+#    parent = "program"
+#    weight = 20
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"
 #    url = "/program/dc"
 #    parent = "program"
 #    weight = 20
- [[menu.main]]
-   identifier = "keynotes"
-   name = "Keynotes"
-   url = "/program/keynotes"
-   parent = "program"
-   weight = "30"
- [[menu.main]]
-   identifier = "panel"
-   name = "Industry Panel"
-   url = "/program/panel"
-   parent = "program"
-   weight = "35"
- [[menu.main]]
-   identifier = "ws"
-   name = "Workshops"
-   parent = "program"
-   url = "/program/ws_overview"
-   weight = 40
-[[menu.main]]
-   identifier = "tutorials"
-   parent = "program"
-   name = "Tutorials"
-   url = "/program/tutorial_overview"
-   weight = "50"
-# TUTORIALS
-[[menu.main]]
-   identifier = "2024_T01_aiopt_scheduling"
-   name = "T01 - AI Techniques for Solving Scheduling Problems"
-   parent = "tutorials"
-   url = "/program/tutorials/2024_t01_aiopt_scheduling"
-   weight = "10"
-[[menu.main]]
-   identifier = "2024_T02_finding_multiple_plans"
-   name = "T02 - Finding Multiple Plans for Classical Planning Problems"
-   parent = "tutorials"
-   url = "/program/tutorials/2024_t02_finding_multiple_plans"
-   weight = "20"
-[[menu.main]]
-  identifier = "2024_T03_scikit_decide"
-  name = "T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for Planning, Scheduling and Reinforcement Learning"
-  parent = "tutorials"
-  url = "/program/tutorials/2024_t03_scikit_decide"
-  weight = "30"
-[[menu.main]]
-  identifier = "2024_T04_storytelling"
-  name = "T04 - Planning for Storytelling"
-  parent = "tutorials"
-  url = "/program/tutorials/2024_t04_storytelling"
-  weight = "40"
-[[menu.main]]
-  identifier = "2024_T05_rl_coach"
-  name = "T05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH"
-  parent = "tutorials"
-  url = "/program/tutorials/2024_t05_rl_coach"
-  weight = "50"
-## WORKSHOPS
- [[menu.main]]
-   identifier = "keps"
-   name = "KEPS"
-   parent = "ws"
-   url = "/program/workshops/keps"
-   weight = 10
-  [[menu.main]]
-    identifier = "hplan"
-    name = "HPlan"
-    url = "/program/workshops/hplan"
-    parent = "ws"
-    weight = 20
- [[menu.main]]
-   identifier = "wipc"
-   name = "WIPC"
-   url = "/program/workshops/wipc"
-   parent = "ws"
-   weight = 30
-  [[menu.main]]
-    identifier = "prl"
-    name = "PRL"
-    parent = "ws"
-    url = "/program/workshops/prl"
-    weight = 40
-  [[menu.main]]
-    identifier = "haxp"
-    name = "HAXP"
-    url = "/program/workshops/haxp"
-    parent = "ws"
-    weight = 50
-  [[menu.main]]
-    identifier = "haxp"
-    name = "HAXP"
-    parent = "ws"
-    url = "/program/workshops/haxp"
-    weight = 60
-  [[menu.main]]
-    identifier = "weep"
-    name = "WEEP"
-    parent = "ws"
-    url = "/program/workshops/weep"
-    weight = 70
- [[menu.main]]
-   identifier = "rddps"
-   name = "RDDPS"
-   parent = "ws"
-   url = "/program/workshops/rddps"
-   weight = 80
-  [[menu.main]]
-    identifier = "hsdip"
-    name = "HSDIP"
-    parent = "ws"
-    url = "/program/workshops/hsdip"
-    weight = 90
- [[menu.main]]
-   identifier = "planrob"
-   name = "PlanRob"
-   parent = "ws"
-   url = "/program/workshops/planrob"
-   weight = 100
-
-# COMMITTEES
+# [[menu.main]]
+#   identifier = "keynotes"
+#   name = "Keynotes"
+#   url = "/program/keynotes"
+#   parent = "program"
+#   weight = "30"
+# [[menu.main]]
+#   identifier = "panel"
+#   name = "Industry Panel"
+#   url = "/program/panel"
+#   parent = "program"
+#   weight = "35"
+# [[menu.main]]
+#   identifier = "ws"
+#   name = "Workshops"
+#   parent = "program"
+#   url = "/program/ws_overview"
+#   weight = 40
+######################### TUTORIALS
+#[[menu.main]]
+#   identifier = "tutorials"
+#   parent = "program"
+#   name = "Tutorials"
+#   url = "/program/tutorial_overview"
+#   weight = "50"
+#[[menu.main]]
+#   identifier = "2024_T01_aiopt_scheduling"
+#   name = "T01 - AI Techniques for Solving Scheduling Problems"
+#   parent = "tutorials"
+#   url = "/program/tutorials/2024_t01_aiopt_scheduling"
+#   weight = "10"
+#[[menu.main]]
+#   identifier = "2024_T02_finding_multiple_plans"
+#   name = "T02 - Finding Multiple Plans for Classical Planning Problems"
+#   parent = "tutorials"
+#   url = "/program/tutorials/2024_t02_finding_multiple_plans"
+#   weight = "20"
+#[[menu.main]]
+#  identifier = "2024_T03_scikit_decide"
+#  name = "T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for Planning, Scheduling and Reinforcement Learning"
+#  parent = "tutorials"
+#  url = "/program/tutorials/2024_t03_scikit_decide"
+#  weight = "30"
+#[[menu.main]]
+#  identifier = "2024_T04_storytelling"
+#  name = "T04 - Planning for Storytelling"
+#  parent = "tutorials"
+#  url = "/program/tutorials/2024_t04_storytelling"
+#  weight = "40"
+#[[menu.main]]
+#  identifier = "2024_T05_rl_coach"
+#  name = "T05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH"
+#  parent = "tutorials"
+#  url = "/program/tutorials/2024_t05_rl_coach"
+#  weight = "50"
+### WORKSHOPS
+# [[menu.main]]
+#   identifier = "keps"
+#   name = "KEPS"
+#   parent = "ws"
+#   url = "/program/workshops/keps"
+#   weight = 10
+#  [[menu.main]]
+#    identifier = "hplan"
+#    name = "HPlan"
+#    url = "/program/workshops/hplan"
+#    parent = "ws"
+#    weight = 20
+# [[menu.main]]
+#   identifier = "wipc"
+#   name = "WIPC"
+#   url = "/program/workshops/wipc"
+#   parent = "ws"
+#   weight = 30
+#  [[menu.main]]
+#    identifier = "prl"
+#    name = "PRL"
+#    parent = "ws"
+#    url = "/program/workshops/prl"
+#    weight = 40
+#  [[menu.main]]
+#    identifier = "haxp"
+#    name = "HAXP"
+#    url = "/program/workshops/haxp"
+#    parent = "ws"
+#    weight = 50
+#  [[menu.main]]
+#    identifier = "haxp"
+#    name = "HAXP"
+#    parent = "ws"
+#    url = "/program/workshops/haxp"
+#    weight = 60
+#  [[menu.main]]
+#    identifier = "weep"
+#    name = "WEEP"
+#    parent = "ws"
+#    url = "/program/workshops/weep"
+#    weight = 70
+# [[menu.main]]
+#   identifier = "rddps"
+#   name = "RDDPS"
+#   parent = "ws"
+#   url = "/program/workshops/rddps"
+#   weight = 80
+#  [[menu.main]]
+#    identifier = "hsdip"
+#    name = "HSDIP"
+#    parent = "ws"
+#    url = "/program/workshops/hsdip"
+#    weight = 90
+# [[menu.main]]
+#   identifier = "planrob"
+#   name = "PlanRob"
+#   parent = "ws"
+#   url = "/program/workshops/planrob"
+#   weight = 100
+#
+######################### COMMITTEES
   [[menu.main]]
     identifier = "committees"
     name = "Committees"
@@ -352,12 +352,12 @@ theme = 'mainroad'
     url = "/committees/organizers"
     parent = "committees"
     weight = 100
-  [[menu.main]]
-    identifier = "pc"
-    name = "Program Committee"
-    url = "/committees/program_committees"
-    parent = "committees"
-    weight = 200
+#  [[menu.main]]
+#    identifier = "pc"
+#    name = "Program Committee"
+#    url = "/committees/program_committees"
+#    parent = "committees"
+#    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"

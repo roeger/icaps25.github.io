@@ -6,19 +6,6 @@ draft: false
 
 # Important Dates (tentative)
 
-## 2023
-- **December 7** - Abstracts due (electronic submission)
-- **December 13** - Full papers due (electronic submission, PDF)
-
-## 2024
-- **January 24-27** - Author feedback period
-- **February 12** - Notification of acceptance or rejection
-- **March** - Early registration deadline
-- **March-April** - Conference hotel booking deadline
-
-<br />
-
-- **May 27-31** - Summer School
-- **June 1** - ICAPS 2024 DC
-- **June 2-3** - ICAPS 2024 Workshops/Tutorials
-- **June 4-6** - ICAPS 2024 Main Conference
+- **November 9** - ICAPS 2024 DC
+- **November 10-11** - ICAPS 2024 Workshops/Tutorials
+- **November 12-14** - ICAPS 2024 Main Conference
