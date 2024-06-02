@@ -6,6 +6,6 @@ draft: false
 
 # Important Dates (tentative)
 
-- **November 9** - ICAPS 2024 DC
-- **November 10-11** - ICAPS 2024 Workshops/Tutorials
-- **November 12-14** - ICAPS 2024 Main Conference
+- **November 9** - ICAPS 2025 DC
+- **November 10-11** - ICAPS 2025 Workshops/Tutorials
+- **November 12-14** - ICAPS 2025 Main Conference
