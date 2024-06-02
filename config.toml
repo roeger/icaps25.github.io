@@ -1,13 +1,14 @@
-baseURL = 'https://icaps24.icaps-conference.org'
+#baseURL = 'https://icaps25.icaps-conference.org'
+baseURL = 'https://icaps25.github.io/'
 languageCode = 'en-us'
-title = 'ICAPS 2024'
+title = 'ICAPS 2025'
 theme = 'mainroad'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
-  title = "The 34th International Conference" # Logo title, otherwise will use site title
+  title = "The 35th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Banff, Alberta, Canada, June 1-6, 2024" # Logo subtitle
+  subtitle = "Melbourne, Victoria, Australia, November 9-15, 2025" # Logo subtitle
 
 [Params.style.vars]
      highlightColor = "#f5821f"
@@ -30,17 +31,17 @@ theme = 'mainroad'
     url="/dates"
     weight = 2000
 # COMPETITIONS
-  [[menu.main]]
-    identifier = "competitions"
-    name = "Competitions"
-    url="/competitions"
-    weight = 3000
-  [[menu.main]]
-    identifier = "airlift"
-    name = "Airlift Challenge"
-    url="/competitions/airlift"
-    parent = "competitions"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "competitions"
+#    name = "Competitions"
+#    url="/competitions"
+#    weight = 3000
+#  [[menu.main]]
+#    identifier = "airlift"
+#    name = "Airlift Challenge"
+#    url="/competitions/airlift"
+#    parent = "competitions"
+#    weight = 10
 # STUDENTS
   [[menu.main]]
     identifier = "students"
