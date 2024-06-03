@@ -15,7 +15,10 @@ The ICAPS 2025 program committee invites paper submissions related to automated 
 - Analytic and implemented tools supporting automated planning and scheduling;
 - Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight.
 
-**ICAPS 2025** will be collocated with [22nd International Conference on Principles of Knowledge Representation and Reasoning (KR-2025)](https://kr.org/)
+**ICAPS 2025** will be collocated with:
 
+- [KR-2025](https://kr.org/): The 22nd International Conference on Principles of Knowledge Representation and Reasoning.
+- [CPAIOR-2025](https://cpaior.org/): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
+- A summer school.
 
 <!-- {{< sponsors_table_json "/data/sponsors/sponsors.json" >}} -->
