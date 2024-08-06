@@ -343,20 +343,31 @@ theme = 'mainroad'
 #
 ######################### COMMITTEES
   [[menu.main]]
-    identifier = "committees"
-    name = "Committees"
+    identifier = "organization"
+    name = "Organization"
     weight = 9000
   [[menu.main]]
-    identifier = "organizers"
-    name = "Organizers"
-    url = "/committees/organizers"
-    parent = "committees"
+    identifier = "conference_chairs"
+    name = "Conference Chairs"
+    url = "/organization/conference_chairs"
+    parent = "organization"
     weight = 100
-#  [[menu.main]]
+  [[menu.main]]
+    identifier = "roles"
+    name = "Roles and Guidelines"
+    url = "/organization/roles_and_guidelines"
+    parent = "organization"
+    weight = 100
+  [[menu.main]]
+    identifier = "desk_rejection"
+    name = "Desk Rejection"
+    url = "/organization/desk_rejection"
+    parent = "organization"
+  #  [[menu.main]]
 #    identifier = "pc"
 #    name = "Program Committee"
-#    url = "/committees/program_committees"
-#    parent = "committees"
+#    url = "/organization/program_committees"
+#    parent = "organization"
 #    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]

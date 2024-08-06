@@ -6,4 +6,4 @@ draft: false
 # ICAPS'24 Committee
 
 
-{{< pc_table_json "/data/committee/pc.json" >}}
+{{< pc_table_json "/data/organization/pc.json" >}}
