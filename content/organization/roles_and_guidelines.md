@@ -13,35 +13,52 @@ draft: false
 
 ## Topic Chairs (TC)
 
+ICAPS 2025 does not have "tracks" but "topics", following up the changes made in ICAPS 2024 when all submissions were
+directed to a single track, and the notion of "primary keyword" to classify papers was put forward. Topics are a way to 
+cater to the research interests of the planning community and a way to
+give visibility to closely related research questions which can be both well-established or new and emerging. While
+some of the topics have been chosen by the ICAPS 2025 PC team, we expect the community to put forward topics.
+For more details, please see [an overview of our paper classification system](/organization/paper_classification_system).
+
 The main roles of Topic Chairs (TCs) are:
 
-- Before submission, to nominate and invite suitable candidates for Area Chair (AC) and Reviewer roles.
-- During the assignment phase, help the Program Chairs resolve the status of papers flagged as eligible for desk rejection
-  and decide whether they can continue into Round 1. The conditions for a paper to be considered for desk rejection 
-  can be found [here](/content/organization/desk_rejection.md)
-- Oversee the activities of the ACs and assist them to reach a recommendation, moderate discussions and reviews, and
-  coach them to resolve any issues.
+- Before the submission deadline, to nominate and invite candidates for Area Chair (AC) and Reviewer roles, who
+  the TC considers to be experts in the conference topic they are overseeing.
+- During the assignment phase, we expect TCs to help the Program Chairs resolve the status of papers flagged as 
+  eligible for desk rejection and decide whether they can continue into Round 1. The conditions for a paper to be 
+  considered for desk rejection 
+  can be found [here](/organization/desk_rejection)
+- During the rest of the conference workflow, we expect TCs to oversee the activities of the ACs and assist them to 
+  reach a recommendation, moderate discussions and reviews, and coach them to resolve any issues.
 
-We expect TCs to be assigned to about 40 submissions each, depending on actual submission intake.
+We expect TCs to be assigned to about 5-20 submissions each, depending on actual submission intake.
 
 ## Area Chair (AC)
 
+The role of "Area Chair" is roughly equivalent to that of "Meta-Reviewer" and resp. "SPC" in previous editions of AAAI and
+IJCAI. We use the nomenclature put forward by OpenReview out of expediency. ICAPS 2025 ACs though, are expected to have
+a more involved role than meta-reviewers and SPCs in other conferences. We want to experiment with the notion that 
+a small conference like ICAPS can be run in a similar way as a quick-turnaround journal like 
+[IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l), and ACs take the role of junior
+editors, actively engaging with the reviewers and being required to provide substantive meta-reviews. We think that empowering
+and increasing the responsibility of this figure makes the proposition more interesting and attractive.
+
 ### Role Description
 
-Area Chairs are expected to perform the following functions during the reviewing and discussion phases of the conference:
+Area Chairs (ACs) are expected to perform the following functions during the reviewing and discussion phases of the conference:
 
- - Read the conditions for acceptance, and contact the ICAPS-25 organizing committee to resolve any doubts or questions.
+ - Read the [conditions for acceptance](/organization/conditions_for_acceptance), and contact the ICAPS-25 organizing 
+   committee to resolve any doubts or questions.
  - Place bids on papers that the AC is interested in and fall within their field of expertise. Avoid any obvious
    conflicts of interest.
- - Lead the process of [desk rejection](/content/organization/desk_rejection.md).
- - Read carefully and thoughtfully their assigned papers.
- - Report if there is a Conflict of Interest (see below) in the assignment. This may affect yourself or the other
-   Program Chairs (PCs) assigned to the paper.
- - The AC should read the paper carefully, taking notes where appropriate at least twice. These notes can evolve into 
+ - Lead the process of [desk rejection](/content/organization/desk_rejection).
+ - Report if they have a Conflict of Interest (see below) with one or more papers in the assignment. This may affect 
+   yourself or the Reviewers assigned to the paper. ACs will know the identity of the Reviewers
+ - The AC should read the paper carefully, taking notes where appropriate. These notes can evolve into 
    the AC own review, if the AC is so inclined.
- - Engage with the PCs during the review and discussion period to resolve relevant issues (see below).
+ - Engage with the Reviewers during the review and discussion period to resolve relevant issues (see below).
  - Write a meta-review summarizing the views of the Program Chairs assigned to the paper, and provide a 
-   recommendation justified on the basis of the recommendations and their own views on the paper.
+   recommendation justified on the basis of the content of the reviews, the discussion, and their own views on the paper.
 
 ### Guidelines (Phase 1 and Phase 2)
 
@@ -50,10 +67,10 @@ Our guidelines for ICAPS-25 follow from the excellent advice by
 at the National University Singapore:
 
 1. Read the assigned paper at least twice. Take notes and organize them into a review. See the [guidelines](#reviewer) 
-   provided to the PCs.
+   provided to the Reviewers.
 
 2. When the reviews are complete for a paper, do the meta-review. Decide whether to make your review available to the
-   PCs.
+   Reviewers.
 
 3. Read all the reviews.
 
@@ -69,14 +86,15 @@ themes, e.g. “Lack of convincing data” or “Key strengths”
 into one main document, balancing the differing opinions and adding your own where necessary. When opinions conflict, 
 look at the PC’s expertise in the area to disambiguate, or look at the paper to verify which position seems 
 more justifiable. We note that your own opinion may be in conflict with that of the reviewers. This conflict needs to
-be addressed via discussion on the OpenReview system. Challenge the PCs opinions and comments that are in conflict 
-with yours in a respectful and factual manner, or for which you find are not substantiated by the facts of the paper
-or do not follow logically from these. We suggest that your meta-review contains at least the following three 
+be addressed via discussion on the OpenReview system. Challenge the Reviewers opinions and comments that are in conflict 
+with yours, or you find are not substantiated by the facts of the paper
+or do not follow logically from these, in a respectful and factual manner. We suggest that your meta-review contains at 
+least the following three 
 sections: “Strengths”, “For Improvement” and “Recommendation”.
 
-8. Make a recommendation on whether to accept or reject the paper. Justify your recommendations based on the ICAPS-25 
-conditions for acceptance. In other words, look at the conditions for acceptance and see if it matches the points you 
-see in front of you.
+8. Make a recommendation on whether to accept or reject the paper. Justify your recommendations based on the [ICAPS-25 
+conditions for acceptance](/organization/conditions_for_acceptance). In other words, look at the conditions for 
+acceptance and see if it matches the points you see in front of you.
 
 9. Edit your meta-review. The authors will read it if the paper is rejected in Phase 1, and it is meant to provide a 
    roadmap for them to improve their paper, so it is good to take a kind, but objective tone.
@@ -96,7 +114,7 @@ ACs should drive the discussion actively by keeping a "bird's eye view." You may
 paper, but you should remain open and uncommitted in your language when sharing these views. It may not be possible to 
 bring the reviewers to a "consensus" on their views of the paper because of inherent ambiguity in value judgements and 
 the psychological dynamics of online discussion. You, as the AC, is the one decides the recommendation to decide
-the outcome. The reviewers need to inform your final decision, and be responsive to your queries.
+the outcome. The Reviewers need to inform your final decision, and be responsive to your queries.
 
 Some specific advice follows to address specific situations.
 
@@ -125,7 +143,7 @@ inspired from real cases of ICAPS reviews and related venues):
 
 ### Dealing with inappropriate reviews
 
-All reviewers must abide by the ICAPS code of conduct, and the reviews cannot be the vehicle for anyone to display 
+All reviewers must abide by the [ICAPS code of conduct](/code_of_conduct), and the reviews cannot be the vehicle for anyone to display 
 unlawful (as per the code of conduct) behaviors. If the review contains offensive remarks and the like take immediate action, 
 getting in touch with your Senior Area Chair and write to the authors requesting them to rectify and change their behavior.
 
@@ -143,7 +161,7 @@ expect you to have something meaningful to say regardless of the paper being "st
 to focus on editorial feedback at a low level: if the paper has typos or questionable grammar, point that out at a general
 level. Tools for correcting and enhancing written English are very advanced as of the time of writing this, and it is safe
 to assume that authors know about and how to use them effectively. Clearly, if the paper is written in a language other
-than English or is gibberish, raise this immediately with the Program Chairs.
+than English or is gibberish, raise this immediately with the AC.
 
 ### Guidelines for Reviewing
 
@@ -230,8 +248,8 @@ instances of "lack of clarity":
    discussion and connection with other parts of the paper?
  - The authors overuse figures of speech and metaphors, or use them inline in definitions, theorems, or proofs.
  - Algorithms invoke non-trivial or undefined procedures, or use flow control other than conditionals and loops. For
-   instance, if the authors say "**choose** _x_ s.t. _P(x)_" one should expect that both the domain of _x_ and an interpretation 
-   for _P(x)_ are explained in the text.
+   instance, if the authors say "**choose** _x_ s.t. _P(x)_" one should expect that both the domain of _x_ and the 
+   background necessary for interpreting _P(x)_ are explained in the text.
  - Notation changes meaning throughout the paper without warning, or in ways that greatly detract from the reviewing
    experience. For instance, one can use the letter "i" to denote indices of different sets, but it would be problematic
    that "i" is used to denote *both* indices and elements of sets.
