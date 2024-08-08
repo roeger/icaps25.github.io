@@ -36,6 +36,17 @@
                     "country": "Australia"
                 }
             ]
+        },
+        {
+            "position": "Sponsorship Chair",
+            "email": "charles.gretton@anu.edu.au",
+            "people": [
+                {
+                    "name": "Charles Gretton",
+                    "institution": "Australian National University, Australia",
+                    "country": "Australia"
+                }
+            ]
         }
     ]
 }
