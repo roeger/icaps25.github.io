@@ -38,6 +38,22 @@
             ]
         },
         {
+            "position": "Doctoral Consortium Chairs",
+            "email": "Sarath.Sreedharan@colostate.edu",
+            "people": [
+                {
+                    "name": "Sarath Sreedharan",
+                    "institution": "Colorado State University",
+                    "country": "United States"
+                },
+                {
+                    "name": "Felipe Meneguzzi",
+                    "institution": "University of Aberdeen",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
             "position": "Sponsorship Chair",
             "email": "charles.gretton@anu.edu.au",
             "people": [
@@ -45,6 +61,22 @@
                     "name": "Charles Gretton",
                     "institution": "Australian National University, Australia",
                     "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Diversity and Inclusion Chairs",
+            "email": "mor.vered@monash.edu",
+            "people": [
+                {
+                    "name": "Mor Vered",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Reuth Mirsky",
+                    "institution": "Bar-Ilan University",
+                    "country": "Israel"
                 }
             ]
         }
