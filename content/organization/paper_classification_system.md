@@ -15,12 +15,13 @@ which is the _crucial_ one, that is, the one that justifies acceptance into ICAP
 - Algorithmic 
   - The paper reports contributions that add new methodologies and algorithms to solve planning problems.
   - Examples of contributions in this category would be, but are not limited to: optimisations/specializations of 
-    existing algorithms, propagators, algorithms for subproblems (branching decisions, decomposition approaches)
+    existing algorithms, propagators, decompositions into subproblems, etc.
 - Models 
   - The paper discusses new representations of solutions or elements of planning problems. 
   - Examples of contributions in this category would be, but are not limited to: new mathematical frameworks for 
     existing problems or original descriptions of new problems, refinements in existing frameworks for knowledge 
-    representation about actions, goals, or states.
+    representation of actions, goals, states, or other rigorously defined concept that describes solutions
+    planning and scheduling problems.
 - Position Paper
   - The paper presents novel research questions, or reflects on the status and approaches to existing research questions.
   - Examples of contributions in this category would be: meta-analysis of research trends, results, benchmarks.
