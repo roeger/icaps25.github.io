@@ -1,12 +1,17 @@
 # ICAPS 2025 Paper Classification System
 
-WIP...
+Inspired by the [ACM 2012 Computing Classification System](https://www.acm.org/publications/class-2012-intro) we have
+developed a paper classification system to better index research papers on planning and scheduling. 
+Indexing submissions in a careful manner helps authors be found by the most relevant reviewers and to track how the
+research interests and efforts of the community evolve over time.
 
-# Type Tags
+Our system is flat and allows to attach three categories of terms (tags) to submissions: types, topics and subjects.
 
-Submissions can be tagged with oneof the following tags that describe the type of content that readers will
-find in the paper. We note that the authors in papers that present several types of contributions, will need to decide
-which is the _crucial_ one, that is, the one that justifies acceptance into ICAPS 2025.
+## Type Tags
+
+Submissions can be tagged with one of the following terms that describe the nature of the contributions that readers will
+find in the paper. We note that the authors of papers where contributions match multiple of the terms below will
+need to choose one, that describes best the most crucial contribution in the paper.
 
 - Theoretical 
   - The paper reports contributions that broaden the set of analytical tools to study problems and algorithms. 
@@ -26,132 +31,78 @@ which is the _crucial_ one, that is, the one that justifies acceptance into ICAP
   - The paper presents novel research questions, or reflects on the status and approaches to existing research questions.
   - Examples of contributions in this category would be: meta-analysis of research trends, results, benchmarks.
 
+## Topic Tags
 
-# Topic Tags
+Topics are terms that describe the context that motivates the research questions and accompanying assumptions that are 
+addressed in the paper. We are considering the following topics at the time of writing this:
 
-# Subject Tags
+- Abstract Models
+  - Planning and scheduling problems are described in terms of an axiomatic theory mathematically or using
+    some formal language.
+- Learning 
+  - Parts of the representation of problems or the algorithms used to solve them are acquired by or based on
+    Machine Learning algorithms.
+- Robotics
+  - Solutions of planning and scheduling problems are to be interpreted on a specific intuitive, physical
+    theory, and both algorithms and representations use this theory directly.
+- Human-aware 
+  - Planning and scheduling occurs with a human in or on the loop, and hence models take into account quantitative
+    or qualitative aspects of human cognition.
+- Applications (Special Topic) 
+  - Industrial applications of planning and scheduling technologies in engineering and 
+    administration. Submissions to this topic are processed via a slightly different workflow that acknowledges the gaps
+    between academic research and engineering.
+
+## Subject Tags
 
 To describe the paper subject(s), that is the crucial background and knowledge necessary to make sense out of
-the paper, we have borrow the ontology used by IJCAI 2024. Below is the list of keywords in IJCAI 2024 classification
-system which we have found to be most relevant to submissions to ICAPS. Please let us know if you would like to add
-a new category by writing [to our mailing list](mailto:icaps25pc@googlegroups.com)
+the paper, we have borrowed the structure of the ontology used by IJCAI 2024, adding to it some terms we found on AAAI 2024
+classification that were not used by IJCAI, as well as a few subjects we felt were missing or could be made more 
+precise. 
+We also include a number of topics outside the "Planning and Scheduling" IJCAI category which we think are very closely
+related and may help authors to better describe the subjects covered by their submission.
+Please let us know if you would like to add a new category by writing [to our mailing list](mailto:icaps25pc@googlegroups.com)
 
-## Agent-based and Multi-agent Systems
- -  MAS: Formal verification, validation and synthesis
- -  MAS: Human-agent interaction
-## AI Ethics, Trust, Fairness
- -  ETF: Accountability
- -  ETF: AI and law, governance, regulation
- -  ETF: Bias
- -  ETF: Ethical, legal and societal issues
- -  ETF: Explainability and interpretability
- -  ETF: Fairness and diversity
- -  ETF: Safety and robustness
- -  ETF: Societal impact of AI
- -  ETF: Trustworthy AI
- -  ETF: Values
-## Computer Vision
- -  CV: Applications
- -  CV: Embodied vision: Active agents, simulation
- -  CV: Motion and tracking
- -  CV: Scene analysis and understanding   
- -  CV: Structural and model-based approaches, knowledge representation and reasoning
-## Constraint Satisfaction and Optimization
- -  CSO: Applications
- -  CSO: Constraint learning and acquisition
- -  CSO: Constraint optimization problems
- -  CSO: Constraint programming
- -  CSO: Constraint satisfaction
- -  CSO: Distributed constraints
- -  CSO: Mixed discrete and continuous optimization
- -  CSO: Modeling
- -  CSO: Other
- -  CSO: Satisfiabilty
- -  CSO: Solvers and tools
-## Game Theory and Economic Paradigms
- -  GTEP: Auctions and market-based systems
- -  GTEP: Computational social choice
- -  GTEP: Cooperative games
- -  GTEP: Mechanism design
- -  GTEP: Noncooperative games
-## Humans and AI
- -  HAI: Brain sciences
- -  HAI: Cognitive modeling
- -  HAI: Cognitive systems
- -  HAI: Computational sustainability and human wellbeing
- -  HAI: Computer-aided education
- -  HAI: Human-AI collaboration
- -  HAI: Human-computer interaction
- -  HAI: Intelligent user interfaces
- -  HAI: Personalization and user modeling
-## Knowledge Representation and Reasoning
- -  KRR: Belief change
- -  KRR: Case-based reasoning
- -  KRR: Causality
- -  KRR: Description logics and ontologies
- -  KRR: Diagnosis and abductive reasoning
- -  KRR: Knowledge compilation
- -  KRR: Knowledge representation languages
- -  KRR: Logic programming
- -  KRR: Non-monotonic reasoning
- -  KRR: Preference modelling and preference-based reasoning
- -  KRR: Qualitative, geometric, spatial, and temporal reasoning
+### Humans and AI
+ -  HAI: Human-Aware planning and behavior prediction
+ -  HAI: Planning and decision support for human-machine teams
+### Knowledge Representation and Reasoning
  -  KRR: Reasoning about actions
  -  KRR: Reasoning about knowledge and belief
-## Machine Learning
- -  ML: Active learning
- -  ML: Adversarial machine learning
- -  ML: Applications
- -  ML: Deep learning architectures
- -  ML: Generative models
- -  ML: Model-based and model learning reinforcement learning
- -  ML: Multiagent Reinforcement Learning
- -  ML: Multi-armed bandits
- -  ML: Neuro-symbolic methods
- -  ML: Offline reinforcement learning
- -  ML: Partially observable reinforcement learning and POMDPs
+### Machine Learning
  -  ML: Reinforcement learning
- -  ML: Relational learning
  -  ML: Representation learning
- -  ML: Sequence and graph learning
- -  ML: Symbolic methods
- -  ML: Theory of deep learning
- ## Planning and Scheduling
+### Planning and Scheduling
  -  PS: Activity and plan recognition
- -  PS: Distributed and multi-agent planning
- -  PS: Hierarchical planning
- -  PS: Learning in planning and scheduling
- -  PS: Markov decision processes
+ -  PS: Applications
+ -  PS: Learning for planning and scheduling
  -  PS: Mixed discrete/continuous planning
  -  PS: Model-based reasoning
- -  PS: Planning algorithms
+ -  PS: Optimization of spatio-temporal systems
+ -  PS: Plan execution and monitoring
  -  PS: Planning under uncertainty
- -  PS: Planning with incomplete information
- -  PS: POMDPs
- -  PS: Real-time planning
- -  PS: Robot planning
+ -  PS: Planning with large language models
+ -  PS: Planning with Markov decision process models (MDPs, POMDPs)
+ -  PS: Re-planning and plan repair
  -  PS: Routing
  -  PS: Scheduling
- -  PS: Search in planning and scheduling
+ -  PS: Scheduling under uncertainty
+ -  PS: Temporal planning
+ -  PS: Distributed and multi-agent planning
+ -  PS: Planning with Hierarchical Task Networks (HTN)
+ -  PS: Classical (fully-observable, deterministic) planning
+ -  PS: Fully observable non-deterministic planning
+ -  PS: Partially observable planning
+ -  PS: Planning with incomplete models
+ -  PS: Real-time planning
  -  PS: Theoretical foundations of planning
  -  PS: Multi-agent path-finding
  -  PS: Generalized planning
-## Robotics
- -  ROB: Human robot interaction
- -  ROB: Localization, mapping, state estimation
+ -  PS: Search in planning and scheduling
+ -  PS: SAT, SMT and CP in planning and scheduling
+ -  PS: Infinite-horizon optimal control
+### Robotics
  -  ROB: Motion and path planning
-## Search
- -  S: Algorithm portfolios and configuration
- -  S: Combinatorial search and optimisation
- -  S: Distributed search
- -  S: Evolutionary computation
- -  S: Game playing
- -  S: Heuristic search
- -  S: Local search
- -  S: Meta-reasoning and meta-heuristics
- -  S: Mixed discrete/continuous search
- -  S: Other
- -  S: Search and machine learning
-## Uncertainty in AI
+### Uncertainty in AI
  -  UAI: Sequential decision making
  -  UAI: Uncertainty representations
