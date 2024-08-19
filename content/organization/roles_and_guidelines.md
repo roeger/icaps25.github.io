@@ -40,12 +40,13 @@ IJCAI. We use the nomenclature put forward by OpenReview out of expediency. ICAP
 a more involved role than meta-reviewers and SPCs in other conferences. We want to experiment with the notion that 
 a small conference like ICAPS can be run in a similar way as a quick-turnaround journal like 
 [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l), and ACs take the role of junior
-editors, actively engaging with the reviewers and being required to provide substantive meta-reviews. We think that empowering
-and increasing the responsibility of this figure makes the proposition more interesting and attractive.
+editors, actively engaging with the reviewers and being required to provide substantive meta-reviews. We think that 
+empowering and increasing the responsibility of this figure makes the proposition more interesting and attractive.
 
 ### Role Description
 
-Area Chairs (ACs) are expected to perform the following functions during the reviewing and discussion phases of the conference:
+Area Chairs (ACs) are expected to perform the following functions during the reviewing and discussion phases of the 
+conference:
 
  - Read the [conditions for acceptance](/organization/conditions_for_acceptance), and contact the ICAPS-25 organizing 
    committee to resolve any doubts or questions.
@@ -233,10 +234,9 @@ healthy skepticism.
 If a manuscript causes reaction along the lines of "this can't work or won't make a difference", then the matter does 
 not belong to the  realm of novelty, but that of quality, which we address below.
 
-### Clarity
+### Clarity of Presentation
 
-The conventions in paper structure are just that, conventions, but they serve a purpose. Namely, provide orientation 
-to the reader about what kind of content is going to be found where. For instance, the following are to our mind, clear
+Clarity in scientific communications is perhaps best conveyed in the negative. The following are to our mind, clear 
 instances of "lack of clarity":
 
  - The abstract is very long yet leaves out important parts of the paper other than related work.
@@ -256,7 +256,7 @@ instances of "lack of clarity":
  - The paper relies exclusively on text without any figures or diagrams, or if it uses them, it does not explain them
    unless using some formal graphical language which is clearly identified and cited.
 
-### Quality
+### Quality of the Contribution
 
 Assessing quality is essentially to watch out for unsound procedures and fallacious arguments. These may be due to error, 
 as in following from applying some mathematical operator incorrectly, presenting a procedure that does not terminate 
