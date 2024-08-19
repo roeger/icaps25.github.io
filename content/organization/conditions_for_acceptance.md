@@ -24,8 +24,8 @@ detailed comments to flesh out their answers.
 
 3. Does it place new results in appropriate context with earlier work?
 
-4. Is the paper sufficiently novel? (A paper is novel if the results it describes were not previously published by 
-other authors, and were not previously published by the same authors in any archival journal or conference.)
+4. Is the paper sufficiently novel? A paper is novel if the results it describes were not previously published by 
+other authors, and were not previously published by the same authors in any archival journal or conference.
 
 5. Is the paper complete? A paper is content complete for a conference if it includes crucial definitions, proofs and/or experimental data, 
 identifies key connections with the existing literature, and provides a convincing discussion of the motivations 
