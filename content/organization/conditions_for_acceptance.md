@@ -13,7 +13,7 @@ Papers that receive more positive responses than negative responses in this form
 
 ## Questionnaire
 
-The ACs are invited to copy and paste the structure below on their meta-reviews and add their 
+The ACs are invited to copy and paste the structure below on their meta-reviews and add 
 detailed comments to flesh out their answers.
 
 ### Content
