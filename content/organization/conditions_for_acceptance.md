@@ -1,16 +1,19 @@
 # Conditions for Acceptance
 
-We give below the criteria used to **consider** a paper for acceptance which we structure as a questionnaire, which
-we borrow from [Elsevier's Artificial Intelligence Journal](https://aij.ijcai.org/reviewing-form/) review form. These
-questions provide a set of guidelines to interrogate whether submissions have the qualities that demonstrate a level
-of achievement that strongly suggests the paper shold be accepted, and also a template for 
-[ACs](/organization/roles_and_guidelines) to write their recommendations to the TCs and the Program Chairs. 
+We give below the criteria used to **consider** a paper for acceptance. These criteria are 
+structured as a questionnaire or *review form*, which
+we borrow from [Elsevier's Artificial Intelligence Journal](https://aij.ijcai.org/reviewing-form/) with minor adjustments. The
+questions therein provide a set of guidelines to interrogate submissions and determine whether
+they possess the qualities that demonstrate a level
+of achievement consistent with acceptance into the ICAPS conference. The form also provides a 
+template for [ACs](/organization/roles_and_guidelines) to write their recommendations to the TCs and the Program Chairs. We hope 
+the ACs find this useful to structure their thinking and expedite the process of writing meta-reviews.
 
-Papers that receive more positive responses than negative responses will be more likely to be accepted. 
+Papers that receive more positive responses than negative responses in this form will be more likely to be accepted. 
 
 ## Questionnaire
 
-The ACs are invited to copy and paste the structure below on their meta-reviews and add their 
+The ACs are invited to copy and paste the structure below on their meta-reviews and add 
 detailed comments to flesh out their answers.
 
 ### Content
@@ -21,22 +24,22 @@ detailed comments to flesh out their answers.
 
 3. Does it place new results in appropriate context with earlier work?
 
-4. Is the paper sufficiently novel? (A paper is novel if the results it describes were not previously published by 
-other authors, and were not previously published by the same authors in any archival journal or conference.)
+4. Is the paper sufficiently novel? A paper is novel if the results it describes were not previously published by 
+other authors, and were not previously published by the same authors in any archival journal or conference.
 
-5. Is the paper complete? (Generally, a paper is complete if it includes all relevant proofs and/or experimental data, 
-a thorough  discussion of connections with the existing literature, and a convincing discussion of the motivations 
-and implications of the presented work.)
+5. Is the paper complete? A paper is content complete for a conference if it includes crucial definitions, proofs and/or experimental data, 
+identifies key connections with the existing literature, and provides a convincing discussion of the motivations 
+and implications of the presented work. For position papers, only the last two aspects are essential.
 
 6. Does anything need to be added or deleted?
 
-7. Is the result important enough to warrant publication in the proceedings and invite the authors to ICAPS 2025?
+7. Are the results and discussion important enough to warrant publication in the proceedings and invite the authors to ICAPS 2025?
 
 ### Form
 
 1. Does the abstract adequately reflect the contents?
 
-2. Are the summary and conclusions adequate?
+2. Are the closing remarks adequate?
 
 3. Does it contain adequate references to previous work?
 
