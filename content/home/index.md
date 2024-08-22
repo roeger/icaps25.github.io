@@ -12,8 +12,11 @@ The ICAPS 2025 program committee invites paper submissions related to automated 
 
 - Theoretical and empirical studies of planning and scheduling problems and algorithms;
 - Novel techniques and approaches that extend the scope and scale of problems that can be solved;
-- Analytic and implemented tools supporting automated planning and scheduling;
+- Novel tools and frameworks for analysing and verifying the properties of systems executing plans, policies or schedules;
 - Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight.
+
+For a more detailed and formal discussion of relevant types of submissions we refer interested parties to [review the 
+ICAPS 2025 paper classification system](/organization/paper_classification_system). 
 
 **ICAPS 2025** will be collocated with:
 
