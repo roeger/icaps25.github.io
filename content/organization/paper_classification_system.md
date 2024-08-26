@@ -55,13 +55,17 @@ addressed in the paper. We are considering the following topics at the time of w
 
 ## Subject Tags
 
-To describe the paper subject(s), that is the crucial background and knowledge necessary to make sense out of
-the paper, we have borrowed the structure of the ontology used by IJCAI 2024, adding to it some terms we found on AAAI 2024
-classification that were not used by IJCAI, as well as a few subjects we felt were missing or could be made more 
-precise. 
+We use the _subject_ as a shorthand of _subject matter_, that is the thing that is being written about, discussed,
+or shown. Subject tags are thus the descriptors that spell out the background and specific mathematical and algorithmic
+frameworks that are addressed in a submission. We have borrowed the structure of the ontology used by IJCAI 2024, adding 
+to it some terms we found on AAAI 2024 classification that were not used by IJCAI, as well as a few subjects we felt were 
+missing or could be made more precise.
 We also include a number of topics outside the "Planning and Scheduling" IJCAI category which we think are very closely
 related and may help authors to better describe the subjects covered by their submission.
-Please let us know if you would like to add a new category by writing [to our mailing list](mailto:icaps25pc@googlegroups.com)
+
+Please let us know if you would like to add a new category by writing [to our mailing list](mailto:icaps25pc@googlegroups.com).
+We **look forward to expand** on this list up until the ICAPS 2025 submission site
+is open for submissions.
 
 ### Humans and AI
  -  HAI: Human-Aware planning and behavior prediction
@@ -99,8 +103,12 @@ Please let us know if you would like to add a new category by writing [to our ma
  -  PS: Multi-agent path-finding
  -  PS: Generalized planning
  -  PS: Search in planning and scheduling
- -  PS: SAT, SMT and CP in planning and scheduling
- -  PS: Infinite-horizon optimal control
+ -  PS: SAT, SMT and CP
+ -  PS: Local search and evolutionary programming
+ -  PS: Sub-modular and gradient-free optimization
+ -  PS: Mathematical programming
+ -  PS: Infinite-horizon optimal control problems
+ -  PS: Model checking for trust, safety and robustness
 ### Robotics
  -  ROB: Motion and path planning
 ### Uncertainty in AI
