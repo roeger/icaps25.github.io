@@ -11,7 +11,9 @@ Our system is flat and allows to attach three categories of terms (tags) to subm
 
 Submissions can be tagged with one of the following terms that describe the nature of the contributions that readers will
 find in the paper. We note that the authors of papers where contributions match multiple of the terms below will
-need to choose one, that describes best the most crucial contribution in the paper.
+**need to choose one**, that describes best the most crucial contribution in the paper. If the authors research spans
+more than one type of contribution, we encourage authors to consider submitting additional, shorter papers to the 
+conference or its satellite workshops.
 
 - Theoretical 
   - The paper reports contributions that broaden the set of analytical tools to study problems and algorithms. 
@@ -30,6 +32,24 @@ need to choose one, that describes best the most crucial contribution in the pap
 - Position Paper
   - The paper presents novel research questions, or reflects on the status and approaches to existing research questions.
   - Examples of contributions in this category would be: meta-analysis of research trends, results, benchmarks.
+- Tools
+  - The paper discusses a tool of interest to the community or a new version of a tool built using novel algorithmic
+    and engineering techniques. Submissions must describe tools of broad interest and utility to the ICAPS community.
+    Papers in this category must clearly describe the problem to be solved, its importance, related work, the techniques 
+    used in the tool and their novelty, the construction of the tool, its unique features, discuss how the tool is used 
+    and present benchmarking of the tool including comparisons with other tools and previous versions of the tool. For 
+    tools from the industry, the description should be useful in allowing the community members to reproduce some of the key 
+    techniques or “tricks” in their own tools.
+  - Examples of contributions in this category would be, but are not limited to, planners (i.e. solvers integrating 
+    representations and methods), model checkers and synthesis tools, general libraries to construct, manage and 
+    transform representations of planning and scheduling problems, applications for visualizing, benchmarking and comparing
+    planners or other types of tools, etc.
+  - These submissions will be required to provide a digital copy of or suitably configured access to the tool. Guidelines
+    for these submission will be published soon. 
+  - There is no requirement of anonymizing the artifact, as we consider the authors of the paper and the (possibly) different
+    and many contributors to a tool as two separate entities, where the latter are given credit in different and 
+    appropriate ways consistent with the laws and customs that apply.
+
 
 ## Topic Tags
 
@@ -49,9 +69,9 @@ addressed in the paper. We are considering the following topics at the time of w
   - Planning and scheduling occurs with a human in or on the loop, and hence models take into account quantitative
     or qualitative aspects of human cognition.
 - Applications (Special Topic) 
-  - Industrial applications of planning and scheduling technologies in engineering and 
-    administration. Submissions to this topic are processed via a slightly different workflow that acknowledges the gaps
-    between academic research and engineering.
+  - Applications of planning and scheduling technologies in Engineering, Management in enterprise environments. Submissions to 
+    this topic are processed via a slightly different workflow that acknowledges the gaps
+    between academic research and applied engineering in a commercial enterprise.
 
 ## Subject Tags
 
@@ -66,6 +86,9 @@ related and may help authors to better describe the subjects covered by their su
 Please let us know if you would like to add a new category by writing [to our mailing list](mailto:icaps25pc@googlegroups.com).
 We **look forward to expand** on this list up until the ICAPS 2025 submission site
 is open for submissions.
+
+We want to stress that submissions which **do not** refer to **one or more** of the subject tags under the "Planning and
+Scheduling" category will be flagged automatically for **desk rejection**.
 
 ### Humans and AI
  -  HAI: Human-Aware planning and behavior prediction
