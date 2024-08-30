@@ -20,20 +20,24 @@ detailed comments to flesh out their answers.
 
 1. Is the paper technically sound?
 
-2. Does it show sufficient applicability to the Topic descriptor chosen?
+2. Does it show sufficient applicability to the Topic tag chosen?
 
 3. Does it place new results in appropriate context with earlier work?
 
-4. Is the paper sufficiently novel? A paper is novel if the results it describes were not previously published by 
-other authors, and were not previously published by the same authors in any archival journal or conference.
+4. Is the paper sufficiently novel? A paper is novel if the results, techniques or tools it describes were not previously 
+published by other authors, and were not previously published by the same authors in any archival journal or conference.
 
-5. Is the paper complete? A paper is content complete for a conference if it includes crucial definitions, proofs and/or experimental data, 
-identifies key connections with the existing literature, and provides a convincing discussion of the motivations 
-and implications of the presented work. For position papers, only the last two aspects are essential.
+5. Is the paper complete? A paper is content complete for a conference if it includes crucial definitions, proofs 
+and/or experimental data, identifies key connections with the existing literature, and provides a convincing discussion 
+of the motivations and implications of the presented work. For position papers, only the last two aspects are essential.
 
 6. Does anything need to be added or deleted?
 
-7. Are the results and discussion important enough to warrant publication in the proceedings and invite the authors to ICAPS 2025?
+7. Does the research reported in the paper require a statement of ethical and future impacts? If so, did the authors
+provide such a statement in the original submission or as part of their response to the reviewers?
+
+8. Are the results and discussion important enough to warrant publication in the proceedings and invite the authors to 
+ICAPS 2025?
 
 ### Form
 
