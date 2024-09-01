@@ -190,6 +190,12 @@ You should review papers along the following dimensions:
    - If there are theoretical guarantees provided, are the arguments structured in a way that follows logically from the algorithm 
      description and other definitions and results in the paper? Are the experiments designed to illustrate the predictions 
      put forward by the theoretical results of the paper?
+ - Technical Readiness (Tools papers only)
+   - In addition to the four dimensions above, tool paper submissions provide an artifact, either a downloadable 
+     piece of software or web-base application that provides evidence of the content of the paper.
+   - Artifact evaluation needs to be conducted in a manner consistent with the 
+     [EAPLS guidelines](https://eapls.org/pages/artifact_badges/), and reviewers are expected to state how papers
+     track towards the levels of achievement associated with three EAPLS artifact badges.
 
 Below we provide more specific directions and advice on how to evaluate your assigned submissions.
 

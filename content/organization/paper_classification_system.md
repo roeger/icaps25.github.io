@@ -46,9 +46,8 @@ conference or its satellite workshops.
     planners or other types of tools, etc.
   - These submissions will be required to provide a digital copy of or suitably configured access to the tool. Guidelines
     for these submission will be published soon. 
-  - There is no requirement of anonymizing the artifact, as we consider the authors of the paper and the (possibly) different
-    and many contributors to a tool as two separate entities, where the latter are given credit in different and 
-    appropriate ways consistent with the laws and customs that apply.
+  - There is no requirement of anonymizing the artifact, so these submissions are de-facto **single-blind**. Still, we
+    expect that the manuscripts submitted for review are anonymized as other type of papers.
 
 
 ## Topic Tags
@@ -59,15 +58,15 @@ addressed in the paper. We are considering the following topics at the time of w
 - Abstract Models
   - Planning and scheduling problems are described in terms of an axiomatic theory mathematically or using
     some formal language.
-- Learning 
+- Machine Learning 
   - Parts of the representation of problems or the algorithms used to solve them are acquired by or based on
     Machine Learning algorithms.
-- Robotics
+- Robotics and Control Theory
   - Solutions of planning and scheduling problems are to be interpreted on a specific intuitive, physical
     theory, and both algorithms and representations use this theory directly.
 - Human-aware 
   - Planning and scheduling occurs with a human in or on the loop, and hence models take into account quantitative
-    or qualitative aspects of human cognition.
+    or qualitative aspects of human cognition and psychology.
 - Applications (Special Topic) 
   - Applications of planning and scheduling technologies in Engineering, Management in enterprise environments. Submissions to 
     this topic are processed via a slightly different workflow that acknowledges the gaps
@@ -91,7 +90,7 @@ We want to stress that submissions which **do not** refer to **one or more** of 
 Scheduling" category will be flagged automatically for **desk rejection**.
 
 ### Humans and AI
- -  HAI: Human-Aware planning and behavior prediction
+ -  HAI: Human-aware planning and behavior prediction
  -  HAI: Planning and decision support for human-machine teams
 ### Knowledge Representation and Reasoning
  -  KRR: Reasoning about actions
