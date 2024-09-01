@@ -31,12 +31,16 @@ published by other authors, and were not previously published by the same author
 and/or experimental data, identifies key connections with the existing literature, and provides a convincing discussion 
 of the motivations and implications of the presented work. For position papers, only the last two aspects are essential.
 
-6. Does anything need to be added or deleted?
+6. (Tools papers only) Has the artifact submitted satisfied achieved any of the 
+[EAPLS artifact badges](https://eapls.org/pages/artifact_badges/)? Were these achievements commensurate with the claims
+made by the authors in their submission?
 
-7. Does the research reported in the paper require a statement of ethical and future impacts? If so, did the authors
+7. Does anything need to be added or deleted?
+
+8. Does the research reported in the paper require a statement of ethical and future impacts? If so, did the authors
 provide such a statement in the original submission or as part of their response to the reviewers?
 
-8. Are the results and discussion important enough to warrant publication in the proceedings and invite the authors to 
+9. Are the results and discussion important enough to warrant publication in the proceedings and invite the authors to 
 ICAPS 2025?
 
 ### Form
