@@ -88,7 +88,10 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   - Knowledge Engineering for Planning and Scheduling is the collection of processes involving (i) the acquisition, 
   validation, verification, and maintenance of models of planning problems, (ii) the selection and optimisation of appropriate 
   planning and scheduling technology, and (iii) the integration of (i) and (ii) to deliver automated planning and 
-  scheduling applications.
+  scheduling applications. Submissions to this topic are expected to be of a diverse nature, as befits the wide range
+  of representations of planning and scheduling problems that are known in the literature. It is desirable that submissions
+  establish where applicable a crisp differentiation between persistent knowledge (e.g. domain models) and the 
+  specification of particular scenarios.
 
 
 ## Subject Tags
