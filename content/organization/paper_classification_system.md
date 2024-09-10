@@ -69,7 +69,7 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   are welcome, and in that case, it will be expected that the submission contains an articulate and compelling argument
   based on capabilities of that are either absent in existing methodologies and formulations.
 - Robotics and Control Theory
-  - This topic addresses approaches to planning and scheduling where the theory used to represent planning problems and
+  - This topic addresses approaches to planning and scheduling where the theory used to represent problems and
   reason about the existence of solutions is an "intuitive" one, that models with some degree of fidelity the constraints
   that agent(s) physical form is subject to in the real world. Methodologies specific to this topic are
   (nonlinear) mathematical programming, unconstrained optimization, model predictive control methods, geometric reasoning, 
