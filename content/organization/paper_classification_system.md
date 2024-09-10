@@ -53,24 +53,43 @@ conference or its satellite workshops.
 ## Topic Tags
 
 Topics are terms that describe the context that motivates the research questions and accompanying assumptions that are 
-addressed in the paper. We are considering the following topics at the time of writing this:
+addressed in the paper. ICAPS 2025 invites papers addressing the following topics:
 
 - Abstract Models
-  - Planning and scheduling problems are described in terms of an axiomatic theory mathematically or using
-    some formal language.
+  - Planning and scheduling problems are described rigorously in terms of a suitably defined axiomatic theory. The axioms
+  of this theory provide the building blocks to establish the existence (or non-existence) of solutions. This topic 
+  encompasses research formulated on frameworks such as, but not exclusively, PDDL, RDDL, Markov Decision Processes, Transition 
+  Systems and Automata, etc. and methodologies as diverse as Heuristic Search and Dynamic Programming, Boolean 
+  Satisfiability, Discrete and Continuous Optimization, etc.
 - Machine Learning 
-  - Parts of the representation of problems or the algorithms used to solve them are acquired by or based on
-    Machine Learning algorithms.
+  - Applications of the theory and algorithms of Machine Learning to the representation and solution of planning and 
+  scheduling problems. This is a wide-ranging topic that covers Reinforcement Learning, Representation Learning, applications
+  of Large Language Model technology, etc. We expect submissions to this topic to formulate their assumptions in a 
+  rigorous fashion, connected to existing mathematical formulations of planning and scheduling problems. Novel formulations
+  are welcome, and in that case, it will be expected that the submission contains an articulate and compelling argument
+  based on capabilities of that are either absent in existing methodologies and formulations.
 - Robotics and Control Theory
-  - Solutions of planning and scheduling problems are to be interpreted on a specific intuitive, physical
-    theory, and both algorithms and representations use this theory directly.
+  - This topic addresses approaches to planning and scheduling where the theory used to represent planning problems and
+  reason about the existence of solutions is an "intuitive" one, that models with some degree of fidelity the constraints
+  that the agent physical embodiment is subject to in the real world. Methodologies specific to this topic are
+  (nonlinear) mathematical programming, unconstrained optimization, model predictive control methods, geometric reasoning, 
+  amongst many others. 
 - Human-aware 
-  - Planning and scheduling occurs with a human in or on the loop, and hence models take into account quantitative
-    or qualitative aspects of human cognition and psychology.
+  - Submissions made to this topic discuss frameworks and algorithms that address applications of planning and scheduling 
+  in which a human is in or on the loop. This requires to adopt and reason about assumptions that take into account quantitative
+  or qualitative aspects of human cognition, psychology, user interface design, and other multi-disciplinary topics.
+  We expect submissions to ICAPS to present these assumptions in a rigorous and mathematical fashion, connected
+  with existing work on abstract models of planning problems, robotics and control theory.
 - Applications (Special Topic) 
   - Applications of planning and scheduling technologies in Engineering, Management in enterprise environments. Submissions to 
     this topic are processed via a slightly different workflow that acknowledges the gaps
     between academic research and applied engineering in a commercial enterprise.
+- Knowledge Engineering (Community Topic)
+  - Knowledge Engineering for Planning and Scheduling is the collection of processes involving (i) the acquisition, 
+  validation, verification, and maintenance of models of planning problems, (ii) the selection and optimisation of appropriate 
+  planning and scheduling technology, and (iii) the integration of (i) and (ii) to deliver automated planning and 
+  scheduling applications.
+
 
 ## Subject Tags
 
