@@ -5,15 +5,21 @@ developed a paper classification system to better index research papers on plann
 Indexing submissions in a careful manner helps authors be found by the most relevant reviewers and to track how the
 research interests and efforts of the community evolve over time.
 
-ICAPS 2025 uses the following definition for the term _planning and scheduling_, adapted from 
+ICAPS 2025 uses the following definition for the term _planning_, adapted from 
 [this seminal paper](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/bridging-the-gap-between-planning-and-scheduling/D28BF4F8743CB36D649565B6ACF4AA85),
-and independent of the formalisms and algorithms being used. _Planning_ is a **synthesis task** that involves the
+that is independent of formalisms and algorithms. _Planning_ is a **synthesis task** that involves the
 formulation of a course of action to achieve some desired objective or objectives. Such a course of actions can
-be any program of actions that may include (partially-ordered) sequences, branches, loops, and parallel actions.
-Objectives in planning problems encompass a diverse set of concepts, such as achieving a set of _goals_, instantiating
-or performing an abstract task, or optimizing some given objective function.
+be described by a number of mathematical structures in which objects called actions are bound together by mathematical relations that express their
+duration or effects and arrange them in specific patterns often represented as graphs. Actions 
+represent activities or processes that change in some way the properties of or existing relations amongst a given set of 
+objects or entities other than actions.
+Objectives in planning problems encompass a diverse set of concepts, such as achieving a set of 
+_goals_, instantiating or performing an abstract task, or optimizing some given objective function. ICAPS assumes the task 
+of seeking such courses of action is solved
+in an autonomous or semi-autonomous fashion by suitably defined algorithms implemented on some computing device or network
+of such devices.
 
-ICAPS 2025 welcomes submissions on any type of planning problems, including but not limited to specialized ones such as 
+ICAPS 2025 welcomes submissions of research on any type of planning problems, including but not limited to specialized ones such as 
 motion and path planning, production and route planning, and scheduling. We invite authors to carefully consider what
 of the tags below best describe the nature and form of their contributions to ensure that expert reviewers are matched
 to their papers.
