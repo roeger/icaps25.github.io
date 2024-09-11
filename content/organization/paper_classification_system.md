@@ -5,6 +5,19 @@ developed a paper classification system to better index research papers on plann
 Indexing submissions in a careful manner helps authors be found by the most relevant reviewers and to track how the
 research interests and efforts of the community evolve over time.
 
+ICAPS 2025 uses the following definition for the term _planning and scheduling_, adapted from 
+[this seminal paper](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/bridging-the-gap-between-planning-and-scheduling/D28BF4F8743CB36D649565B6ACF4AA85),
+and independent of the formalisms and algorithms being used. _Planning_ is a **synthesis task** that involves the
+formulation of a course of action to achieve some desired objective or objectives. Such a course of actions can
+be any program of actions that may include (partially-ordered) sequences, branches, loops, and parallel actions.
+Objectives in planning problems encompass a diverse set of concepts, such as achieving a set of _goals_, instantiating
+or performing an abstract task, or optimizing some given objective function.
+
+ICAPS 2025 welcomes submissions on any type of planning problems, including but not limited to specialized ones such as 
+motion and path planning, production and route planning, and scheduling. We invite authors to carefully consider what
+of the tags below best describe the nature and form of their contributions to ensure that expert reviewers are matched
+to their papers.
+
 Our system is flat and allows to attach three categories of terms (tags) to submissions: types, topics and subjects.
 
 ## Type Tags
@@ -59,12 +72,12 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   - Planning and scheduling problems are described rigorously in terms of a suitably defined axiomatic theory. The axioms
   of this theory provide the building blocks to establish the existence (or non-existence) of solutions. This topic 
   encompasses research formulated on frameworks such as, but not exclusively, PDDL, RDDL, Markov Decision Processes, Transition 
-  Systems and Automata, etc. and methodologies as diverse as Heuristic Search and Dynamic Programming, Boolean 
+  Systems and Automata, Graph Theory, etc. and methodologies as diverse as Heuristic Search and Dynamic Programming, Boolean 
   Satisfiability, Discrete and Continuous Optimization, etc.
 - Machine Learning 
   - Applications of the theory and algorithms of Machine Learning to the representation and solution of planning and 
-  scheduling problems. This is a wide-ranging topic that covers Reinforcement Learning, Representation Learning, applications
-  of Large Language Model technology, etc. We expect submissions to this topic to formulate their assumptions in a 
+  scheduling problems. This is a wide-ranging topic that covers Reinforcement Learning, Representation Learning, integrations
+  of or with Large Language Model technology, etc. We expect submissions to this topic to formulate their assumptions in a 
   rigorous fashion, connected to existing mathematical formulations of planning and scheduling problems. Novel formulations
   are welcome, and in that case, it will be expected that the submission contains an articulate and compelling argument
   based on capabilities of that are either absent in existing methodologies and formulations.
