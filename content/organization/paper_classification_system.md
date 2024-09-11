@@ -9,8 +9,8 @@ ICAPS 2025 uses the following definition for the term _planning_, adapted from
 [this seminal paper](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/bridging-the-gap-between-planning-and-scheduling/D28BF4F8743CB36D649565B6ACF4AA85),
 that is independent of formalisms and algorithms. _Planning_ is a **synthesis task** that involves the
 formulation of a course of action to achieve some desired objective or objectives. Such a course of actions can
-be described by a number of mathematical structures in which objects called actions are bound together by mathematical relations that express their
-duration or effects and arrange them in specific patterns often represented as graphs. Actions 
+be described by a number of mathematical structures in which objects called actions are bound together by mathematical relations
+and arranged in specific patterns often represented as graphs. Actions 
 represent activities or processes that change in some way the properties of or existing relations amongst a given set of 
 objects or entities other than actions.
 Objectives in planning problems encompass a diverse set of concepts, such as achieving a set of 
