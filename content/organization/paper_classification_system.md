@@ -5,9 +5,8 @@ developed a paper classification system to better index research papers on plann
 Indexing submissions in a careful manner helps authors be found by the most relevant reviewers and to track how the
 research interests and efforts of the community evolve over time.
 
-ICAPS 2025 uses the following definition for the term _planning_, adapted from 
-[this seminal paper](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/bridging-the-gap-between-planning-and-scheduling/D28BF4F8743CB36D649565B6ACF4AA85),
-that is independent of formalisms and algorithms. _Planning_ is a **synthesis task** that involves the
+ICAPS 2025 uses the following definition for the term _planning, that is independent of formalisms and algorithms. 
+_Planning_ is a **synthesis task** that involves the
 formulation of a course of action to achieve some desired objective or objectives. Such a course of actions is rigorously
 defined as a structure in which objects called _actions_ are bound together by some mathematical relation
 and arranged in specific patterns often represented as graphs. Actions 
