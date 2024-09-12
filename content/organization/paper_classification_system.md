@@ -8,8 +8,8 @@ research interests and efforts of the community evolve over time.
 ICAPS 2025 uses the following definition for the term _planning_, adapted from 
 [this seminal paper](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/bridging-the-gap-between-planning-and-scheduling/D28BF4F8743CB36D649565B6ACF4AA85),
 that is independent of formalisms and algorithms. _Planning_ is a **synthesis task** that involves the
-formulation of a course of action to achieve some desired objective or objectives. Such a course of actions can
-be described by a number of mathematical structures in which objects called actions are bound together by mathematical relations
+formulation of a course of action to achieve some desired objective or objectives. Such a course of actions is rigorously
+defined as a mathematical structure in which objects called ``actions'' are bound together by relations
 and arranged in specific patterns often represented as graphs. Actions 
 represent activities or processes that change in some way the properties of or existing relations amongst a given set of 
 objects or entities other than actions.
@@ -32,9 +32,9 @@ Submissions can be tagged with one of the following terms that describe the natu
 find in the paper. We note that the authors of papers where contributions match multiple of the terms below will
 **need to choose one**, that describes best the most crucial contribution in the paper. If the authors research spans
 more than one type of contribution, we encourage authors to consider submitting additional, shorter papers to the 
-conference or its satellite workshops.
+conference or its satellite workshops. 
 
-- Theoretical 
+- Theoretical  
   - The paper reports contributions that broaden the set of analytical tools to study problems and algorithms. 
   - Examples of contributions in this category would be, but are not limited to: complexity results, 
     expressiveness/compilations, new frameworks
@@ -43,14 +43,16 @@ conference or its satellite workshops.
   - Examples of contributions in this category would be, but are not limited to: optimisations/specializations of 
     existing algorithms, propagators, decompositions into subproblems, etc.
 - Models 
-  - The paper discusses new representations of solutions or elements of planning problems. 
+  - The paper describe new representations of planning problems and their solutions. 
   - Examples of contributions in this category would be, but are not limited to: new mathematical frameworks for 
     existing problems or original descriptions of new problems, refinements in existing frameworks for knowledge 
     representation of actions, goals, states, or other rigorously defined concept that describes solutions
     planning and scheduling problems.
 - Position Paper
-  - The paper presents novel research questions, or reflects on the status and approaches to existing research questions.
-  - Examples of contributions in this category would be: meta-analysis of research trends, results, benchmarks.
+  - The paper contributes a thoughtful critique or bold new perspectives of the field.
+  - Examples of contributions in this category would be: meta-analysis of research trends, descriptions of new challenge 
+    problems suitable for planning and scheduling, historical perspectives and analysis of the field and technical 
+    discussions of various implementation techniques.
 - Tools
   - The paper discusses a tool of interest to the community or a new version of a tool built using novel algorithmic
     and engineering techniques. Submissions must describe tools of broad interest and utility to the ICAPS community.
