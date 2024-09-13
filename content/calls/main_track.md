@@ -37,7 +37,7 @@ problems, applications for visualising, benchmarking and comparing planners or o
 All submissions to the main technical track must be classified in terms of one or more high-level topics, and one or 
 more relevant subject-matter keywords,  which are within the scope of the conference. A list of relevant topics and 
 subject matter keywords are available from 
-the [ICAPS 2025 homepage](https://icaps25.icaps-conference.org/organization/paper_classification_system).
+the [ICAPS 2025 homepage](https://icaps25.icaps-conference.org/organisation/paper_classification_system).
 
 
 ## KEY DATES
@@ -64,13 +64,13 @@ All types of papers can be submitted as either long (8 pages AAAI style plus one
 plus one page of references). Whether the paper is long or short must be indicated at submission time.
 
 Over-length papers will be rejected without review. A paper is over-length whenever content other than the ethical 
-impacts statement (see below) or acknowledgments section appears on page 9 (resp. Page 5) of long (resp. short) papers.
+impacts statement (see below) or acknowledgements section appears on page 9 (resp. Page 5) of long (resp. short) papers.
 
 All papers that satisfy length and formatting requirements will be reviewed against standard criteria such as relevance, 
 originality, significance, clarity, and soundness. Submissions are expected to meet the high standards of publication 
 expected by ICAPS. Please refer to the 
-[conference](https://icaps25.icaps-conference.org/organization/roles_and_guidelines)
-[website](https://icaps25.icaps-conference.org/organization/conditions_for_acceptance) 
+[conference](https://icaps25.icaps-conference.org/organisation/roles_and_guidelines)
+[website](https://icaps25.icaps-conference.org/organisation/conditions_for_acceptance) 
 for further details and reviewing guidelines. 
 
 The review process has three possible outcomes: (1) acceptance for oral presentation and inclusion in the archival 

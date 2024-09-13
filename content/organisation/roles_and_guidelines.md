@@ -18,7 +18,7 @@ directed to a single track, and the notion of "primary keyword" to classify pape
 cater to the research interests of the planning community and a way to
 give visibility to closely related research questions which can be both well-established or new and emerging. While
 some of the topics have been chosen by the ICAPS 2025 PC team, we expect the community to put forward topics.
-For more details, please see [an overview of our paper classification system](/organization/paper_classification_system).
+For more details, please see [an overview of our paper classification system](/organisation/paper_classification_system).
 
 The main roles of Topic Chairs (TCs) are:
 
@@ -27,7 +27,7 @@ The main roles of Topic Chairs (TCs) are:
 - During the assignment phase, we expect TCs to help the Program Chairs resolve the status of papers flagged as 
   eligible for desk rejection and decide whether they can continue into Round 1. The conditions for a paper to be 
   considered for desk rejection 
-  can be found [here](/organization/desk_rejection)
+  can be found [here](/organisation/desk_rejection)
 - During the rest of the conference workflow, we expect TCs to oversee the activities of the ACs and assist them to 
   reach a recommendation, moderate discussions and reviews, and coach them to resolve any issues.
 
@@ -48,17 +48,17 @@ empowering and increasing the responsibility of this figure makes the propositio
 Area Chairs (ACs) are expected to perform the following functions during the reviewing and discussion phases of the 
 conference:
 
- - Read the [conditions for acceptance](/organization/conditions_for_acceptance), and contact the ICAPS-25 organizing 
+ - Read the [conditions for acceptance](/organisation/conditions_for_acceptance), and contact the ICAPS-25 organising 
    committee to resolve any doubts or questions.
  - Place bids on papers that the AC is interested in and fall within their field of expertise. Avoid any obvious
    conflicts of interest.
- - Lead the process of [desk rejection](/content/organization/desk_rejection).
+ - Lead the process of [desk rejection](/content/organisation/desk_rejection).
  - Report if they have a Conflict of Interest (see below) with one or more papers in the assignment. This may affect 
    yourself or the Reviewers assigned to the paper. ACs will know the identity of the Reviewers
  - The AC should read the paper carefully, taking notes where appropriate. These notes can evolve into 
    the AC own review, if the AC is so inclined.
  - Engage with the Reviewers during the review and discussion period to resolve relevant issues (see below).
- - Write a meta-review summarizing the views of the Program Chairs assigned to the paper, and provide a 
+ - Write a meta-review summarising the views of the Program Chairs assigned to the paper, and provide a 
    recommendation justified on the basis of the content of the reviews, the discussion, and their own views on the paper.
 
 ### Guidelines (Phase 1 and Phase 2)
@@ -67,7 +67,7 @@ Our guidelines for ICAPS-25 follow from the excellent advice by
 [Dr. Pin Sym Foong](https://pinsym.wordpress.com/2015/01/29/tips-for-writing-a-meta-review/)
 at the National University Singapore:
 
-1. Read the assigned paper at least twice. Take notes and organize them into a review. See the [guidelines](#reviewer) 
+1. Read the assigned paper at least twice. Take notes and organise them into a review. See the [guidelines](#reviewer) 
    provided to the Reviewers.
 
 2. When the reviews are complete for a paper, do the meta-review. Decide whether to make your review available to the
@@ -83,7 +83,7 @@ to note which reviewer it came from. For instance, _R2: “this paper needs more
 6. When you are done with that, take an overall view of the comments, and start to group them into themes. Name the 
 themes, e.g. “Lack of convincing data” or “Key strengths”
 
-7. Now start writing the meta-review. The main task for an Area Chair is to summarize the reviewer’s comments 
+7. Now start writing the meta-review. The main task for an Area Chair is to summarise the reviewer’s comments 
 into one main document, balancing the differing opinions and adding your own where necessary. When opinions conflict, 
 look at the PC’s expertise in the area to disambiguate, or look at the paper to verify which position seems 
 more justifiable. We note that your own opinion may be in conflict with that of the reviewers. This conflict needs to
@@ -94,11 +94,11 @@ least the following three
 sections: “Strengths”, “For Improvement” and “Recommendation”.
 
 8. Make a recommendation on whether to accept or reject the paper. Justify your recommendations based on the [ICAPS-25 
-conditions for acceptance](/organization/conditions_for_acceptance). In other words, look at the conditions for 
+conditions for acceptance](/organisation/conditions_for_acceptance). In other words, look at the conditions for 
 acceptance and see if it matches the points you see in front of you.
 
 9. Edit your meta-review. The authors will read it if the paper is rejected in Phase 1, and it is meant to provide a 
-   roadmap for them to improve their paper, so it is good to take a kind, but objective tone.
+   road-map for them to improve their paper, so it is good to take a kind, but objective tone.
 
 ### Guidelines specific to Phase 2
 
@@ -145,8 +145,8 @@ inspired from real cases of ICAPS reviews and related venues):
 ### Dealing with inappropriate reviews
 
 All reviewers must abide by the [ICAPS code of conduct](/code_of_conduct), and the reviews cannot be the vehicle for anyone to display 
-unlawful (as per the code of conduct) behaviors. If the review contains offensive remarks and the like take immediate action, 
-getting in touch with your Senior Area Chair and write to the authors requesting them to rectify and change their behavior.
+unlawful (as per the code of conduct) behaviours. If the review contains offensive remarks and the like take immediate action, 
+getting in touch with your Senior Area Chair and write to the authors requesting them to rectify and change their behaviour.
 
 Sometimes reviews may come with attempts at using humour to get the authors to reflect on a topic, or stern language to 
 provide them with clear directions. Reach out to the reviewer if these comments sound 
@@ -185,17 +185,17 @@ You should review papers along the following dimensions:
    - If it contains theorems, can you follow the argument proving their validity if one is given? And if no proof is 
      provided, can you convince yourself of their correctness from the definitions, axioms and other assumptions 
      stated in the paper? 
-   - For algorithms, is the algorithm specified with enough detail to understand its behavior? If it is presented along 
+   - For algorithms, is the algorithm specified with enough detail to understand its behaviour? If it is presented along 
      an empirical analysis, are the tests conducted designed to support claims and stress the proposed algorithm? 
    - If there are theoretical guarantees provided, are the arguments structured in a way that follows logically from the algorithm 
      description and other definitions and results in the paper? Are the experiments designed to illustrate the predictions 
      put forward by the theoretical results of the paper?
  - Technical Readiness (Tools papers only)
-   - In addition to the four dimensions above, tool paper submissions provide an artifact, either a downloadable 
+   - In addition to the four dimensions above, tool paper submissions provide an artefact, either a downloadable 
      piece of software or web-base application that provides evidence of the content of the paper.
-   - Artifact evaluation needs to be conducted in a manner consistent with the 
+   - Artefact evaluation needs to be conducted in a manner consistent with the 
      [EAPLS guidelines](https://eapls.org/pages/artifact_badges/), and reviewers are expected to state how papers
-     track towards the levels of achievement associated with three EAPLS artifact badges.
+     track towards the levels of achievement associated with three EAPLS artefact badges.
 
 Below we provide more specific directions and advice on how to evaluate your assigned submissions.
 
@@ -235,7 +235,7 @@ as that is a deeply problematic notion when it comes to evaluate the merit of sc
 creative endeavour where playfulness and transgression of "norms" is as important as effectively using mathematics
 and computer science to articulate and verify theories and algorithms. 
 This intellectual tolerance needs to be balanced with the exercise of critical thinking and
-healthy skepticism. 
+healthy scepticism. 
 
 If a manuscript causes reaction along the lines of "this can't work or won't make a difference", then the matter does 
 not belong to the  realm of novelty, but that of quality, which we address below.
@@ -248,7 +248,7 @@ instances of "lack of clarity":
  - The abstract is very long yet leaves out important parts of the paper other than related work.
  - There is no proper introduction written, describing the problem and state-of-the-art in an informal (or formal) way.
  - The authors do not offer a clear guide to read the paper, signposting key results, etc. Note that this may or not be 
-   signaled with a specific heading.
+   signalled with a specific heading.
  - The paper relies on complex definitions which are not given mathematically or only pointers to other papers or books
    are given. This may be due to space limitations, but if it is truly important, why isn't the notion devoted careful
    discussion and connection with other parts of the paper?
@@ -289,11 +289,11 @@ Some common fallacies to be found in papers on Computer Science and Artificial I
  - Retrospective determinism: assuming that because an event happens under some circumstance, that circumstance must
    have made the event inevitable.
  - Begging the question: assuming the conclusion and other forms of circular reasoning.
- - No true Scotsman: rendering a generalization true by excluding counterexamples.
+ - No true Scotsman: rendering a generalisation true by excluding counterexamples.
  - False analogy: an argument by analogy in which the analogy is poorly suited.
  - Cherry-picking: using individual cases or data that confirm a particular position, ignoring related data that may
    contradict the position.
- - Hasty generalization: justifying a broad conclusion on a small or unrepresentative sample.
+ - Hasty generalisation: justifying a broad conclusion on a small or unrepresentative sample.
 
 Importantly, it is itself unsound to put forward a review that "pins" one of the above phrases to a paper without clearly
 articulating the reasons for doing so. That would be an example of "begging the question". Reviewers must articulate 

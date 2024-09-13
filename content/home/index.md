@@ -23,7 +23,7 @@ related to automated planning and scheduling. Relevant contributions include, bu
 - A summer school.
 
 The following video has been prepared by the Program Committee to walk interested parties through the major changes 
-in the organization of the conference with respect to previous editions
+in the organisation of the conference with respect to previous editions
 
 <div align="center">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/4H9QyvOapek?si=3O7uiKJf5nylDLgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ ICAPS community. You can find the video [on this link](https://www.youtube.com/w
 
 Our second update is about how to get involved with ICAPS 2025. Following a successful initiative in 2024, we will ask 
 community members to volunteer for roles on the ICAPS 2025 program committee. Openings are available for Topic Chairs, 
-Area Chairs, and Reviewers. A description of each of these roles can be found [here](/organization/roles_and_guidelines).
+Area Chairs, and Reviewers. A description of each of these roles can be found [here](/organisation/roles_and_guidelines).
 If you want to volunteer before we start our mailing campaign, please submit an expression of interest via the Google 
 form [on this link](https://forms.gle/Cv3BavDyA6PhNa3w5).
 
@@ -59,6 +59,6 @@ evolves the system introduced at ICAPS 2024. These changes have several goals: (
 contributions relevant to the conference, (ii) to broaden participation in the conference, and (iii) to increase the 
 likelihood that expert reviewers and area chairs are matched to appropriate submissions by OpenReview and our in-house 
 automated assignment systems. You can find more information about our paper classification system in its 
-[dedicated section](/organization/paper_classification_system) on the ICAPS 2025 website.
+[dedicated section](/organisation/paper_classification_system) on the ICAPS 2025 website.
 
 <!-- {{< sponsors_table_json "/data/sponsors/sponsors.json" >}} -->

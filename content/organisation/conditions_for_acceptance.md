@@ -6,7 +6,7 @@ we borrow from [Elsevier's Artificial Intelligence Journal](https://aij.ijcai.or
 questions therein provide a set of guidelines to interrogate submissions and determine whether
 they possess the qualities that demonstrate a level
 of achievement consistent with acceptance into the ICAPS conference. The form also provides a 
-template for [ACs](/organization/roles_and_guidelines) to write their recommendations to the TCs and the Program Chairs. We hope 
+template for [ACs](/organisation/roles_and_guidelines) to write their recommendations to the TCs and the Program Chairs. We hope 
 the ACs find this useful to structure their thinking and expedite the process of writing meta-reviews.
 
 Papers that receive more positive responses than negative responses in this form will be more likely to be accepted. 
@@ -31,8 +31,8 @@ published by other authors, and were not previously published by the same author
 and/or experimental data, identifies key connections with the existing literature, and provides a convincing discussion 
 of the motivations and implications of the presented work. For position papers, only the last two aspects are essential.
 
-6. (Tools papers only) Has the artifact submitted satisfied achieved any of the 
-[EAPLS artifact badges](https://eapls.org/pages/artifact_badges/)? Were these achievements commensurate with the claims
+6. (Tools papers only) Has the artefact submitted satisfied achieved any of the 
+[EAPLS artefact badges](https://eapls.org/pages/artifact_badges/)? Were these achievements commensurate with the claims
 made by the authors in their submission?
 
 7. Does anything need to be added or deleted?
