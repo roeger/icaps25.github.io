@@ -87,7 +87,7 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   of or with Large Language Model technology, etc. We expect submissions to this topic to formulate their assumptions in a 
   rigorous fashion, connected to existing mathematical formulations of planning and scheduling problems. Novel formulations
   are welcome, and in that case, it will be expected that the submission contains an articulate and compelling argument
-  based on capabilities of that are either absent in existing methodologies and formulations.
+  based on capabilities that are either absent or limited in existing methodologies and formulations.
 - Robotics and Control Theory
   - This topic addresses approaches to planning and scheduling where the theory used to represent problems and
   reason about the existence of solutions is an "intuitive" one, that models with some degree of fidelity the constraints
