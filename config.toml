@@ -101,17 +101,17 @@ theme = 'mainroad'
 #    url = "/attending/students"
 #    parent = "attending"
 #    weight = "50"
-## CALLS
-#  [[menu.main]]
-#    identifier = "calls"
-#    name = "Calls"
-#    weight = 4000
-#  [[menu.main]]
-#    identifier = "main_track"
-#    name = "Call for Papers"
-#    url = "/calls/main_track"
-#    parent = "calls"
-#    weight = 10
+# CALLS
+[[menu.main]]
+  identifier = "calls"
+  name = "Calls"
+  weight = 4000
+[[menu.main]]
+  identifier = "main_track"
+  name = "Call for Papers"
+  url = "/calls/main_track"
+  parent = "calls"
+  weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
