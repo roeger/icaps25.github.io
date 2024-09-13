@@ -10,7 +10,14 @@ More dates to be confirmed soon...
 
 ## 2024
 
-- **November 1** - Submission deadline
+- October 1, 2024 - Submission site opens
+- October 25, 2024 - Abstracts due
+- November 1, 2024 - Full papers due (electronic submission, PDF)
+- November 15 2024 - Desk reject notification
+- December 16, 2024 - Phase 1 author notification
+- January 27-31, 2024 - Author feedback period
+- February 28, 2025 - Phase 2 author notification
+
 
 ## 2025
 
