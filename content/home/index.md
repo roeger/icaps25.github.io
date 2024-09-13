@@ -22,6 +22,21 @@ related to automated planning and scheduling. Relevant contributions include, bu
 - [CPAIOR-2025](https://cpaior.org/): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
 - A summer school.
 
+The following video has been prepared by the Program Committee to walk interested parties through the major changes 
+in the organization of the conference with respect to previous editions
+
+<div align="center">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/4H9QyvOapek?si=3O7uiKJf5nylDLgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+## Call for Papers Advertised - 13th September 2024
+
+The ICAPS 2025 program committee has got its stuff together and is happy to announce that the Call for Papers is 
+now available. We expect to disseminate the call further over the next few days.
+
+We would like to thank to all those who have volunteered to help us with the organisation of the conference. We will be 
+in touch really soon. 
+
 ## Community Update - 2nd September 2024
 
 The ICAPS 2025 program committee is working on preparing the Call for Papers for the Conference which we expect to
