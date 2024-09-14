@@ -2,7 +2,7 @@
 
 A submission is eligible to be considered for desk rejection in the following cases:
 
-1. Plagiarism - Somebody is impersonating the authors of a paper already published in another venue or the ArXiv.
+1. Plagiarism - Somebody is impersonating the authors of a paper already published in another venue or the arXiv.
 2. Misalignment - There is a clear mismatch between the content of the paper and the tags and keywords relevant to the 
 conference and/or those chosen by the authors.
 3. Already Published Papers - The paper has been already formally published (e.g. appears on a publication with an ISBN, 
