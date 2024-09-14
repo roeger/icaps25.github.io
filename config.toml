@@ -1,6 +1,6 @@
 #baseURL = 'https://icaps25.icaps-conference.org'
 baseURL = 'https://icaps25.github.io/'
-languageCode = 'en-us'
+languageCode = 'en_AU'
 title = 'ICAPS 2025'
 theme = 'mainroad'
 
@@ -16,7 +16,16 @@ theme = 'mainroad'
 [Params]
   customJS = ["https://code.jquery.com/jquery-3.7.1.min.js"]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+  mainSections = ["home", "news"]
+  readmore = true # Show "Read more" button in list if true
+  #pager = true # left/right nav links at the bottom of single pages
 
+[Params.sidebar]
+  #home = "right"   # Configure layout for home page
+  #list = "right"   # Configure layout for list pages
+#  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent"]
 
 [menu]
 # HOME
@@ -24,6 +33,11 @@ theme = 'mainroad'
     identifier = "home"
     name = "Home"
     url="/home"
+    weight = 1000
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url="/news"
     weight = 1000
 # DATES
   [[menu.main]]

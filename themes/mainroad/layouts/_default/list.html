@@ -11,6 +11,7 @@
 	</div>
 	{{- end }}
 	{{- range .Paginator.Pages }}
+        {{ .Params.date | time.Format ":date_short"}}<br/>
 		{{- .Render "summary" }}
 	{{- end }}
 </main>
