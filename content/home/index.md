@@ -6,10 +6,9 @@ sidebar: recent
 draft: false
 ---
 
-<!-- WEATHER WIDGET: enable after registration opens
-
+<!-- weather widget - disconnect until conf: https://github.com/icaps25/icaps25.github.io/issues/15
+>>>>>>> ac32ec350d6af052a059660219f8b4cb5e72d018
 <div id="ww_74a8a25ca6a11" v='1.3' loc='id' a='{"t":"responsive","lang":"en","sl_lpl":1,"ids":["wl2863"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>More forecasts: <a href="https://oneweather.org/sydney/30_days/" id="ww_74a8a25ca6a11_u" target="_blank">Sydney 30 days weather forecast</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_74a8a25ca6a11"></script><br>
-
 -->
 
 The [International Conference on Automated Planning and
