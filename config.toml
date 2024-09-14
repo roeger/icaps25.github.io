@@ -1,6 +1,6 @@
 #baseURL = 'https://icaps25.icaps-conference.org'
 baseURL = 'https://icaps25.github.io/'
-languageCode = 'en-us'
+languageCode = 'en_AU'
 title = 'ICAPS 2025'
 theme = 'mainroad'
 
@@ -16,7 +16,16 @@ theme = 'mainroad'
 [Params]
   customJS = ["https://code.jquery.com/jquery-3.7.1.min.js"]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+  mainSections = ["home", "news"]
+  readmore = true # Show "Read more" button in list if true
+  #pager = true # left/right nav links at the bottom of single pages
 
+[Params.sidebar]
+  #home = "right"   # Configure layout for home page
+  #list = "right"   # Configure layout for list pages
+#  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent"]
 
 [menu]
 # HOME
@@ -24,6 +33,11 @@ theme = 'mainroad'
     identifier = "home"
     name = "Home"
     url="/home"
+    weight = 1000
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url="/news"
     weight = 1000
 # DATES
   [[menu.main]]
@@ -344,41 +358,41 @@ theme = 'mainroad'
 #
 ######################### COMMITTEES
   [[menu.main]]
-    identifier = "organization"
-    name = "Organization"
+    identifier = "organisation"
+    name = "Organisation"
     weight = 9000
   [[menu.main]]
     identifier = "conference_chairs"
     name = "Conference Chairs"
-    url = "/organization/conference_chairs"
-    parent = "organization"
+    url = "/organisation/conference_chairs"
+    parent = "organisation"
     weight = 100
   [[menu.main]]
     identifier = "paper_classification_system"
     name = "Paper Classification System"
-    url = "/organization/paper_classification_system"
-    parent = "organization"
+    url = "/organisation/paper_classification_system"
+    parent = "organisation"
   [[menu.main]]
     identifier = "roles"
     name = "Roles and Guidelines"
-    url = "/organization/roles_and_guidelines"
-    parent = "organization"
+    url = "/organisation/roles_and_guidelines"
+    parent = "organisation"
     weight = 100
   [[menu.main]]
     identifier = "conditions_for_acceptance"
     name = "Conditions for Acceptance"
-    url = "/organization/conditions_for_acceptance"
-    parent = "organization"
+    url = "/organisation/conditions_for_acceptance"
+    parent = "organisation"
   [[menu.main]]
     identifier = "desk_rejection"
     name = "Desk Rejection"
-    url = "/organization/desk_rejection"
-    parent = "organization"
+    url = "/organisation/desk_rejection"
+    parent = "organisation"
   #  [[menu.main]]
 #    identifier = "pc"
 #    name = "Program Committee"
-#    url = "/organization/program_committees"
-#    parent = "organization"
+#    url = "/organisation/program_committees"
+#    parent = "organisation"
 #    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]

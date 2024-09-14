@@ -6,7 +6,7 @@ draft: false
 
 # Important Dates
 
-More dates to be confirmed soon...
+All dates for the Main Technical track have been announced. More dates related to ICAPS 2025 will appear here soon...
 
 ## 2024
 
@@ -22,9 +22,11 @@ More dates to be confirmed soon...
 ## 2025
 
 - **February 28** -  Notification of acceptance or rejection
-
-<br>
-
+</br>
+</br>
+...
+</br>
+</br>
 - **November 9** - ICAPS 2025 DC
 - **November 10-11** - ICAPS 2025 Workshops/Tutorials
 - **November 12-14** - ICAPS 2025 Main Conference

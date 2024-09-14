@@ -464,7 +464,9 @@
 
 	.logo__text {
 		/* text-transform: uppercase; */
-		background-color: rgba(0, 0, 0, 0.0);
+        /* [ddh] adds a coloured element behind the logo;
+         * makes the logo text readable */
+		background-color: rgba(0, 0, 0, 0.5);
 	}
 
 	.logo--mixed .logo__item {
@@ -485,7 +487,7 @@
 		font-size: 1.8rem;
 		font-weight: 700;
 		line-height: 1;
-		color: #ffffff;
+		color: #eeeeee;
 		/*rgba(245,130,31,0.85);*/
 	}
 
@@ -497,8 +499,12 @@
 		font-size: .875rem;
 		font-weight: 700;
 		line-height: 1;
-		color: #ffffff;
-		border-top: 1px solid #000;
+		color: #eeeeee;
+        /* [ddh] adjust the color of the divider between the 
+         * $logoTitle2 text (=xx ICAPS)  and the logoSubtitle
+         * (= location) 
+         */
+		border-top: 1px solid #ffffff;
 	}
 
 	.divider {

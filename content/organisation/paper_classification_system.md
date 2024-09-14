@@ -13,12 +13,12 @@ and arranged in specific patterns often represented as graphs. Actions
 represent activities or processes that change in some way the properties of or existing relations amongst a given set of 
 objects or entities other than actions.
 Objectives in planning problems encompass a diverse set of concepts, such as achieving a set of 
-_goals_, instantiating or performing an abstract task, or optimizing some given objective function. ICAPS assumes the task 
+_goals_, instantiating or performing an abstract task, or optimising some given objective function. ICAPS assumes the task 
 of seeking such courses of action is solved
 in an autonomous or semi-autonomous fashion by suitably defined algorithms implemented on some computing device or network
 of such devices.
 
-ICAPS 2025 welcomes submissions of research on any type of planning problems, including but not limited to specialized ones such as 
+ICAPS 2025 welcomes submissions of research on any type of planning problems, including but not limited to specialised ones such as 
 motion and path planning, production and route planning, and scheduling. We invite authors to carefully consider what
 of the tags below best describe the nature and form of their contributions to ensure that expert reviewers are matched
 to their papers.
@@ -39,8 +39,8 @@ conference or its satellite workshops.
     expressiveness/compilations, new frameworks
 - Algorithmic 
   - The paper reports contributions that add new methodologies and algorithms to solve planning problems.
-  - Examples of contributions in this category would be, but are not limited to: optimisations/specializations of 
-    existing algorithms, propagators, decompositions into subproblems, etc.
+  - Examples of contributions in this category would be, but are not limited to: optimisations/specialisations of 
+    existing algorithms, propagators, decompositions into sub-problems, etc.
 - Models 
   - The paper describe new representations of planning problems and their solutions. 
   - Examples of contributions in this category would be, but are not limited to: new mathematical frameworks for 
@@ -62,12 +62,12 @@ conference or its satellite workshops.
     techniques or “tricks” in their own tools.
   - Examples of contributions in this category would be, but are not limited to, planners (i.e. solvers integrating 
     representations and methods), model checkers and synthesis tools, general libraries to construct, manage and 
-    transform representations of planning and scheduling problems, applications for visualizing, benchmarking and comparing
+    transform representations of planning and scheduling problems, applications for visualising, benchmarking and comparing
     planners or other types of tools, etc.
   - These submissions will be required to provide a digital copy of or suitably configured access to the tool. Guidelines
     for these submission will be published soon. 
-  - There is no requirement of anonymizing the artifact, so these submissions are de-facto **single-blind**. Still, we
-    expect that the manuscripts submitted for review are anonymized as other type of papers.
+  - There is no requirement of anonymising the artefact, so these submissions are de-facto **single-blind**. Still, we
+    expect that the manuscripts submitted for review are anonymised as other type of papers.
 
 
 ## Topic Tags
@@ -80,7 +80,7 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   of this theory provide the building blocks to establish the existence (or non-existence) of solutions. This topic 
   encompasses research formulated on frameworks such as, but not exclusively, PDDL, RDDL, Markov Decision Processes, Transition 
   Systems and Automata, Graph Theory, etc. and methodologies as diverse as Heuristic Search and Dynamic Programming, Boolean 
-  Satisfiability, Discrete and Continuous Optimization, etc.
+  Satisfiability, Discrete and Continuous Optimisation, etc.
 - Machine Learning 
   - Applications of the theory and algorithms of Machine Learning to the representation and solution of planning and 
   scheduling problems. This is a wide-ranging topic that covers Reinforcement Learning, Representation Learning, integrations
@@ -92,7 +92,7 @@ addressed in the paper. ICAPS 2025 invites papers addressing the following topic
   - This topic addresses approaches to planning and scheduling where the theory used to represent problems and
   reason about the existence of solutions is an "intuitive" one, that models with some degree of fidelity the constraints
   that agent(s) physical form and actions are subject to in the real world. Methodologies specific to this topic are
-  (nonlinear) mathematical programming, unconstrained optimization, model predictive control methods, geometric reasoning, 
+  (nonlinear) mathematical programming, unconstrained optimisation, model predictive control methods, geometric reasoning, 
   amongst many others. 
 - Human-aware 
   - Submissions made to this topic discuss frameworks and algorithms that address applications of planning and scheduling 
@@ -132,7 +132,7 @@ We want to stress that submissions which **do not** refer to **one or more** of 
 Scheduling" category will be flagged automatically for **desk rejection**.
 
 ### Humans and AI
- -  HAI: Human-aware planning and behavior prediction
+ -  HAI: Human-aware planning and behaviour prediction
  -  HAI: Planning and decision support for human-machine teams
 ### Knowledge Representation and Reasoning
  -  KRR: Reasoning about actions
@@ -146,7 +146,7 @@ Scheduling" category will be flagged automatically for **desk rejection**.
  -  PS: Learning for planning and scheduling
  -  PS: Mixed discrete/continuous planning
  -  PS: Model-based reasoning
- -  PS: Optimization of spatio-temporal systems
+ -  PS: Optimisation of spatio-temporal systems
  -  PS: Plan execution and monitoring
  -  PS: Planning under uncertainty
  -  PS: Planning with large language models
@@ -165,11 +165,11 @@ Scheduling" category will be flagged automatically for **desk rejection**.
  -  PS: Real-time planning
  -  PS: Theoretical foundations of planning
  -  PS: Multi-agent path-finding
- -  PS: Generalized planning
+ -  PS: Generalised planning
  -  PS: Search in planning and scheduling
  -  PS: SAT, SMT and CP
  -  PS: Local search and evolutionary programming
- -  PS: Sub-modular and gradient-free optimization
+ -  PS: Sub-modular and gradient-free optimisation
  -  PS: Mathematical programming
  -  PS: Infinite-horizon optimal control problems
  -  PS: Model checking for trust, safety and robustness

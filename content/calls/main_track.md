@@ -11,7 +11,7 @@ a goal, or to optimise one or more objectives. Effective solutions to planning a
 variety of important application areas, including Industry 4.0, aerospace systems, supply chain management, software 
 engineering, robotics, education, digital entertainment and more.
 
-The International Conference on Automated Planning and Scheduling (ICAPS) is the premier forum for new research results 
+The International Conference on Automated Planning and Scheduling [ICAPS](https://icaps-conference.org) is the premier forum for new research results 
 on the theory and applications of planning and scheduling technology. The 35th edition of the ICAPS conference series 
 will be held in Melbourne, Victoria (Australia), from November 9th to 14th, 2025.
 The program committee of ICAPS 2025 invites paper submissions on all aspects of automated planning and scheduling. 
@@ -37,10 +37,10 @@ problems, applications for visualising, benchmarking and comparing planners or o
 All submissions to the main technical track must be classified in terms of one or more high-level topics, and one or 
 more relevant subject-matter keywords,  which are within the scope of the conference. A list of relevant topics and 
 subject matter keywords are available from 
-the [ICAPS 2025 homepage](https://icaps25.icaps-conference.org/organization/paper_classification_system).
+the [ICAPS 2025 homepage](/organisation/paper_classification_system).
 
 
-## KEY DATES
+## Key Dates
 
 The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time 
 anywhere in the world.
@@ -58,20 +58,18 @@ resubmit. For example, to ICAPS 2025 following Phase 1 reject from AAAI 2024, an
 reject from ICAPS 2025.
 
 
-## AUTHOR GUIDELINES
+## Author Guidelines
 
 All types of papers can be submitted as either long (8 pages AAAI style plus one page of references) or short (4 pages 
 plus one page of references). Whether the paper is long or short must be indicated at submission time.
 
 Over-length papers will be rejected without review. A paper is over-length whenever content other than the ethical 
-impacts statement (see below) or acknowledgments section appears on page 9 (resp. Page 5) of long (resp. short) papers.
+impacts statement (see below) or acknowledgements section appears on page 9 (resp. Page 5) of long (resp. short) papers.
 
 All papers that satisfy length and formatting requirements will be reviewed against standard criteria such as relevance, 
 originality, significance, clarity, and soundness. Submissions are expected to meet the high standards of publication 
 expected by ICAPS. Please refer to the 
-[conference](https://icaps25.icaps-conference.org/organization/roles_and_guidelines)
-[website](https://icaps25.icaps-conference.org/organization/conditions_for_acceptance) 
-for further details and reviewing guidelines. 
+for [further details](/organisation/conditions_for_acceptance) and [reviewing guidelines](/organisation/roles_and_guidelines). 
 
 The review process has three possible outcomes: (1) acceptance for oral presentation and inclusion in the archival 
 proceedings of the ICAPS conference series; (2) acceptance for poster presentation and non-archival extended abstract, 
@@ -87,7 +85,7 @@ before submission.
 The format of ICAPS 2025 will be in-person. As such, we expect at least one author of each accepted paper to register 
 for the conference and present their work in person, unless exceptional circumstances prevent this.
 
-## USE OF GENERATIVE AI
+## Use of Generative AI
 
 ICAPS 2025 continues the policy adopted in 2024 regarding using large-scale language models (LLMs) and other so-called 
 “Generative AI” tools. Papers that include text generated from an LLM are prohibited unless the produced text is 
@@ -102,7 +100,7 @@ published by AAAI Press (ICAPS’ publisher) and, as such, also cannot be used a
 Authors assume full responsibility for the content of submitted work, including checking for plagiarism and authenticity 
 of all text. 
 
-## ETHICAL / SOCIETAL IMPACT
+## Ethical / Societal Impact
 
 Authors are encouraged to include a statement of the potential broader impact of their work, including its ethical 
 aspects and future societal consequences. This statement can be included in either the main body pages or the reference 
@@ -111,37 +109,37 @@ the authors will be asked to provide one during the author response period for r
 consideration as part of the reviewing process. If the paper is accepted, the statement provided will need to be 
 incorporated into the camera-ready version.
 
-## BEST PAPER AWARDS AND JOURNAL FAST TRACK
+## Best Paper Awards and Journal Fast Track
 
 Following the ICAPS tradition, we will award the best non-student and student papers. These papers may also receive an 
 invitation to submit an extended version to a top AI journal, such as the Journal of Artificial Intelligence Research 
 (JAIR) or the Artificial Intelligence Journal (AIJ).
 
 
-## SUBMISSION INSTRUCTIONS
+## Submission Instructions
 
 All submissions will be made electronically via 
 [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Conference).
 Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission 
 type (long or short), and must follow the author kit instructions for formatting. We use a slightly modified version of 
 the AAAI 2025 author kit that can be found 
-[following this link](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip).
+[following this link](/files/icaps2025-author-kit.zip).
 
 Authors can submit supplementary material (videos, technical proofs, additional experimental results) in addition to the 
 PDF paper they submit. Please ensure the supporting material is anonymised unless stated otherwise for specific submission 
 types. Papers should be self-contained; reviewers are encouraged but not obligated to consider supporting material in 
 their decisions.
 
-## PROGRAM CHAIRS AND CONTACT
+## Program Chairs and Contact
 
 - Daniel Harabor, Monash University, Australia
 - Miquel Ramirez, University of Melbourne, Australia
 
 For inquiries, please contact us by email: `icaps25pc [at] googlegroups [dot] com`
 
-# Changelog
+*** 
 
-## Initial Release - 13th September 2024
+#### Changelog
 
- - Call for Papers made public on the ICAPS 2025 website.
+- 2024-09-13 Call for Papers made public on the ICAPS 2025 website.
 
