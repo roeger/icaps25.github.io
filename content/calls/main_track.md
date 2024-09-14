@@ -6,7 +6,7 @@ draft: false
 
 # Call for Papers: ICAPS 2025
 
-**Planning** and **Scheduling** are optimisation problems which require finding a set of actions to complete a task, to achieve 
+*Planning* and *Scheduling* are optimisation problems which require finding a set of actions to complete a task, to achieve 
 a goal, or to optimise one or more objectives. Effective solutions to planning and scheduling problems are critical for a 
 variety of important application areas, including Industry 4.0, aerospace systems, supply chain management, software 
 engineering, robotics, education, digital entertainment and more.
@@ -17,18 +17,18 @@ will be held in Melbourne, Victoria (Australia), from November 9th to 14th, 2025
 The program committee of ICAPS 2025 invites paper submissions on all aspects of automated planning and scheduling. 
 Contributions are welcome in each of the following categories:
 
-- **Theoretical papers**, which broaden or improve the set of analytical tools used to study planning and scheduling 
+- *Theoretical papers*, which broaden or improve the set of analytical tools used to study planning and scheduling 
 problems and algorithms. Examples include complexity results, expressiveness and new theoretical frameworks.
-- **Algorithmic papers**, which describe novel perspectives and substantial (qualitative or quantitative) improvements 
+- *Algorithmic papers*, which describe novel perspectives and substantial (qualitative or quantitative) improvements 
 for solving planning and scheduling problems. Examples include new optimisations or specialisations of existing algorithms, 
 new propagators, new decomposition approaches etc.
-- **Modelling papers**, which describe new representations of planning and scheduling problems and their solutions. Examples 
+- *Modelling papers*, which describe new representations of planning and scheduling problems and their solutions. Examples 
 include new mathematical frameworks for existing problems, original descriptions of emerging problems and refinements of 
 existing frameworks for knowledge representation of actions, goals, states, or other rigorously defined concepts. 
-- **Position papers**, which contribute thoughtful critiques or bold new perspectives of the field. Examples include 
+- *Position papers*, which contribute thoughtful critiques or bold new perspectives of the field. Examples include 
 meta-analysis of research trends, descriptions of new challenge problems suitable for planning and scheduling, 
 historical perspectives and analysis of the field and technical discussions of various implementation techniques.
-- **Tools papers**, which describe systems that are of use and of interest to the planning and scheduling community, and 
+- *Tools papers*, which describe systems that are of use and of interest to the planning and scheduling community, and 
 which are built using novel algorithmic and engineering techniques. Examples include: integrated planning systems, model 
 checkers and synthesis tools, libraries to construct, manage and transform representations of planning and scheduling 
 problems, applications for visualising, benchmarking and comparing planners or other types of tools, etc.
@@ -91,7 +91,7 @@ for the conference and present their work in person, unless exceptional circumst
 
 ICAPS 2025 continues the policy adopted in 2024 regarding using large-scale language models (LLMs) and other so-called 
 “Generative AI” tools. Papers that include text generated from an LLM are prohibited unless the produced text is 
-presented as a part of the paper’s experimental analysis. We stress that this policy **DOES NOT** prohibit authors from 
+presented as a part of the paper’s experimental analysis. We stress that this policy *DOES NOT* prohibit authors from 
 using these technologies for editing or polishing author-written text.
 
 This policy is in line with 
