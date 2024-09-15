@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1>{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- range .Paginator.Pages }}
+        {{ .Date | time.Format ":date_short"}}<br/>
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

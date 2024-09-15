@@ -4,7 +4,7 @@
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
-			<h2>{{ .Title }}</h2>
+			<h1> <a href="/news">News</a> » {{ .Title }}</h1>
 			{{ .Params.date | time.Format ":date_short"}}<br/>
 			<b>{{ .Params.author }}</b></br>
             <hr>
