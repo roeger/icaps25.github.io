@@ -435,8 +435,9 @@
 	}
 
 	.logo--mixed .logo__img {
-		max-width: 142px;
-		max-height: 142px;
+		max-width: 140px;
+		max-height: 140px;
+        padding:1.5px;
 	}
 
 	.logo--mixed .logo__text {
@@ -1297,9 +1298,15 @@ th {
 		}
 
 		.logo__title {
-			font-size: 24px;
+			font-size: 20px;
 			font-size: 1.5rem;
 		}
+
+        .logo--mixed .logo__img {
+            max-width: 126px;
+            max-height: 126px;
+            padding:1.5px;
+        }
 
 		.sidebar {
 			margin-top: 20px;
