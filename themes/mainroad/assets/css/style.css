@@ -1322,6 +1322,33 @@ th {
 			width: 88%;
 		}
 
+		.logo__title {
+			font-size: 16px;
+			font-size: 1rem;
+		}
+
+        .logo--mixed .logo__img {
+            max-width: 100px;
+            max-height: 100px;
+            padding:1px;
+        }
+
+        .logo__tagline {
+            display: inline-block;
+            padding-top: 10px;
+            margin-top: 10px;
+            font-size: 11px;
+            font-size: .6875rem;
+            font-weight: 700;
+            line-height: 1;
+            color: rgba(35,31,32,1);
+        /* [ddh] adjust the color of the divider between the 
+         * $logoTitle2 text (=xx ICAPS)  and the logoSubtitle
+         * (= location) 
+         */
+		border-top: 1px solid rgba(35,31,32,1);
+	}
+
 		.meta__item {
 			display: block;
 			margin-left: 0;
