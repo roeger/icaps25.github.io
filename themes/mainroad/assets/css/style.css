@@ -487,7 +487,7 @@
 		/* text-transform: uppercase; */
         /* [ddh] adds a coloured element behind the logo;
          * makes the logo text readable */
-		background-color: rgba(0, 0, 0, 0.5);
+		background-color: rgba(255, 255, 255, 0.75);
 	}
 
 	.logo--mixed .logo__item {
@@ -508,7 +508,7 @@
 		font-size: 1.8rem;
 		font-weight: 700;
 		line-height: 1;
-		color: #eeeeee;
+		color: rgba(35,31,32,1);
 		/*rgba(245,130,31,0.85);*/
 	}
 
@@ -520,12 +520,12 @@
 		font-size: .875rem;
 		font-weight: 700;
 		line-height: 1;
-		color: #eeeeee;
+		color: rgba(35,31,32,1);
         /* [ddh] adjust the color of the divider between the 
          * $logoTitle2 text (=xx ICAPS)  and the logoSubtitle
          * (= location) 
          */
-		border-top: 1px solid #ffffff;
+		border-top: 1px solid rgba(35,31,32,1);
 	}
 
 	.divider {
@@ -1751,11 +1751,11 @@ th {
 	}
 
 	#banner-main {
-		background-image: url('/img/banner.jpg');
+		background-image: url('/img/banner_crop.jpg');
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		background-position: center -0em;
 		background-size: 1080px;
-		padding-top: 22em;
-		min-height: 450px;
+		padding-top: 10em;
+        min-height: 160px;
 	}
