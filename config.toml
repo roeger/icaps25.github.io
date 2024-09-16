@@ -21,9 +21,9 @@ theme = 'mainroad'
   #pager = true # left/right nav links at the bottom of single pages
 
 [Params.sidebar]
-  #home = "right"   # Configure layout for home page
+  home = "right"   # Configure layout for home page
   #list = "right"   # Configure layout for list pages
-#  single = "right" # Configure layout for single pages
+  #single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["recent"]
 
