@@ -1278,7 +1278,42 @@ th {
 		}
 	}
 
-	@media screen and (max-width: 767px) {
+	@media screen and (max-width: 780px) {
+		.wrapper {
+			display: block;
+		}
+
+		.sidebar {
+			float: none;
+			width: 100%;
+			margin: 0;
+		}
+
+		.logo {
+			text-align: center;
+		}
+
+		.logo__link {
+			margin: 0 auto;
+		}
+
+		.logo__title {
+			font-size: 24px;
+			font-size: 1.5rem;
+		}
+
+        .logo--mixed .logo__img {
+            max-width: 126px;
+            max-height: 126px;
+            padding:1.5px;
+        }
+
+		.sidebar {
+			margin-top: 20px;
+		}
+	}
+
+	@media screen and (max-width: 680px) {
 		.wrapper {
 			display: block;
 		}
@@ -1299,12 +1334,12 @@ th {
 
 		.logo__title {
 			font-size: 20px;
-			font-size: 1.5rem;
+			font-size: 1.25rem;
 		}
 
         .logo--mixed .logo__img {
-            max-width: 126px;
-            max-height: 126px;
+            max-width: 115px;
+            max-height: 115px;
             padding:1.5px;
         }
 
@@ -1313,7 +1348,7 @@ th {
 		}
 	}
 
-	@media screen and (max-width: 620px) {
+	@media screen and (max-width: 466px) {
 
 		input[type=text],
 		input[type=email],
@@ -1323,31 +1358,9 @@ th {
 		}
 
 		.logo__title {
-			font-size: 16px;
-			font-size: 1rem;
+			font-size: 20px;
+			font-size: 1.25rem;
 		}
-
-        .logo--mixed .logo__img {
-            max-width: 100px;
-            max-height: 100px;
-            padding:1px;
-        }
-
-        .logo__tagline {
-            display: inline-block;
-            padding-top: 10px;
-            margin-top: 10px;
-            font-size: 11px;
-            font-size: .6875rem;
-            font-weight: 700;
-            line-height: 1;
-            color: rgba(35,31,32,1);
-        /* [ddh] adjust the color of the divider between the 
-         * $logoTitle2 text (=xx ICAPS)  and the logoSubtitle
-         * (= location) 
-         */
-		border-top: 1px solid rgba(35,31,32,1);
-	}
 
 		.meta__item {
 			display: block;
@@ -1408,6 +1421,18 @@ th {
 			font-size: 11px;
 			font-size: .6875rem;
 		}
+
+        .banner-main {
+            background-image: url('/img/banner_crop.jpg');
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-position: center 0em;
+            background-size: 1080px;
+
+            padding-top: 2em;
+            min-height: 100px;
+
+        }
 	}
 
 	/* Main menu */
