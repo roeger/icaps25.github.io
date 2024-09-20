@@ -365,6 +365,12 @@ languageCode = 'en_AU'
     name = "Organisation"
     weight = 9000
   [[menu.main]]
+    identifier = "pc"
+    name = "Program Committee"
+    url = "/organisation/program_committees"
+    parent = "organisation"
+    weight = 100
+  [[menu.main]]
     identifier = "conference_chairs"
     name = "Conference Chairs"
     url = "/organisation/conference_chairs"
@@ -391,12 +397,7 @@ languageCode = 'en_AU'
     name = "Desk Rejection"
     url = "/organisation/desk_rejection"
     parent = "organisation"
-  #  [[menu.main]]
-#    identifier = "pc"
-#    name = "Program Committee"
-#    url = "/organisation/program_committees"
-#    parent = "organisation"
-#    weight = 200
+
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"

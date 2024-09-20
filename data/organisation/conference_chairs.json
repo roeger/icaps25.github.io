@@ -26,11 +26,6 @@
                     "country": "Australia"
                 },
                 {
-                    "name": "Julie Porteous",
-                    "institution": "RMIT University",
-                    "country": "Australia"
-                },
-                {
                     "name": "Miquel Ramirez",
                     "institution": "University of Melbourne",
                     "country": "Australia"
@@ -59,7 +54,7 @@
             "people": [
                 {
                     "name": "Charles Gretton",
-                    "institution": "Australian National University, Australia",
+                    "institution": "Australian National University",
                     "country": "Australia"
                 }
             ]
@@ -77,6 +72,17 @@
                     "name": "Reuth Mirsky",
                     "institution": "Bar-Ilan University",
                     "country": "Israel"
+                }
+            ]
+        },
+        {
+            "position": "Additional Contributors",
+            "email": "icaps25pc@googlegroups.com",
+            "people": [
+                {
+                    "name": "Julie Porteous",
+                    "institution": "RMIT University",
+                    "country": "Australia"
                 }
             ]
         }
