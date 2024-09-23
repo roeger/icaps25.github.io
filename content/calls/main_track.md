@@ -121,14 +121,25 @@ invitation to submit an extended version to a top AI journal, such as the Journa
 All submissions will be made electronically via 
 [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Conference).
 Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission 
-type (long or short), and must follow the author kit instructions for formatting. We use a slightly modified version of 
+type (long or short), and must follow the author kit instructions for formatting.
+We use a slightly modified version of 
 the AAAI 2025 author kit that can be found 
-[following this link](/files/icaps2025-author-kit.zip).
+[following this link](/files/icaps2025-author-kit.zip). 
 
 Authors can submit supplementary material (videos, technical proofs, additional experimental results) in addition to the 
 PDF paper they submit. Please ensure the supporting material is anonymised unless stated otherwise for specific submission 
 types. Papers should be self-contained; reviewers are encouraged but not obligated to consider supporting material in 
-their decisions.
+their decisions, with the exception of tools papers.
+
+Failure to comply with the submission instructions above will result in desk rejection.
+
+### Double-blind requirements
+
+Double-blind requirements are satisfied whenever authors omit their names and institutions, refer to prior work by
+themselves or others in the third person, and ensure that the acknowledgement notices or ethics statements do not include
+information that may identify them. We do not discourage authors from posting their manuscripts onto Arxiv.org or
+other similar repositories, but we strongly suggest avoiding doing so during the bidding and paper assignment process
+to avoid potential reviewers receiving automated notifications within that critical time-window.
 
 ## Program Chairs and Contact
 
@@ -142,4 +153,4 @@ For inquiries, please contact us by email: `icaps25pc [at] googlegroups [dot] co
 #### Changelog
 
 - 2024-09-13 Call for Papers made public on the ICAPS 2025 website.
-
+- 2024-09-23 Added explicit instructions for double-blind submissions and Arxiv.

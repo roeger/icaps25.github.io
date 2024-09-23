@@ -54,20 +54,14 @@ conference or its satellite workshops.
     discussions of various implementation techniques.
 - Tools
   - The paper discusses a tool of interest to the community or a new version of a tool built using novel algorithmic
-    and engineering techniques. Submissions must describe tools of broad interest and utility to the ICAPS community.
-    Papers in this category must clearly describe the problem to be solved, its importance, related work, the techniques 
-    used in the tool and their novelty, the construction of the tool, its unique features, discuss how the tool is used 
-    and present benchmarking of the tool including comparisons with other tools and previous versions of the tool. For 
-    tools from the industry, the description should be useful in allowing the community members to reproduce some of the key 
-    techniques or “tricks” in their own tools.
+    and engineering techniques. 
   - Examples of contributions in this category would be, but are not limited to, planners (i.e. solvers integrating 
     representations and methods), model checkers and synthesis tools, general libraries to construct, manage and 
     transform representations of planning and scheduling problems, applications for visualising, benchmarking and comparing
     planners or other types of tools, etc.
-  - These submissions will be required to provide a digital copy of or suitably configured access to the tool. Guidelines
-    for these submission will be published soon. 
-  - There is no requirement of anonymising the artefact, so these submissions are de-facto **single-blind**. Still, we
-    expect that the manuscripts submitted for review are anonymised as other type of papers.
+
+
+Specific guidelines and submission instructions are provided for [Tools](/calls/tools_papers_call.md) submissions.
 
 
 ## Topic Tags
