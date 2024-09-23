@@ -61,7 +61,7 @@ conference or its satellite workshops.
     planners or other types of tools, etc.
 
 
-Specific guidelines and submission instructions are provided for [Tools](/calls/tools_papers_call.md) submissions.
+Specific guidelines and submission instructions are provided for [Tools](/calls/tools_papers_call) submissions.
 
 
 ## Topic Tags

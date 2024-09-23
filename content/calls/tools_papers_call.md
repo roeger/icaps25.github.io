@@ -23,18 +23,17 @@ profound impacts in the applications and direction of research in Boolean Satisf
 
 Submissions must describe tools of broad interest and utility to the ICAPS community.
 
-Papers in this category must clearly describe the problem to be solved, its importance, related work, the techniques 
-used in the tool and their novelty, the construction of the tool, its unique features, discuss how the tool is used 
-and present benchmarking of the tool including comparisons with other tools and previous versions of the tool. For 
-tools from the industry, the description should be useful in allowing the community members to reproduce some of the key 
-techniques or “tricks” in their own tools.
-
 Tools papers are required to provide an "artifact" along with a paper (either long or short) whose format and content
 satisfies the requirements given in the [Call for Papers](/calls/main_track). Arfifacts are defined as additional
 material (software, data sets, etc.) that substantiates claims made in the paper and renders them **fully replicable**.
 An artifact may for instance consist of a tool and its accompanying documentation, the input files used for the 
 evaluation of the tool in the paper, and configuration files or other documents that describe the parameters used in 
 the experiments. 
+
+Papers in this category must clearly describe the problem to be solved, its importance, related work, the techniques 
+used in the tool and their novelty, the construction of the tool, its unique features, a discussion of how the tool is used 
+and an evaluation of the usefulness of the tool along with a comparison with other tools and previous versions 
+of the tool.
 
 Reviewers are instructed to read the corresponding paper and evaluate the artifact according to the following criteria
 included in our [instructions for reviewers](/organisation/roles_and_guidelines):
@@ -43,25 +42,28 @@ included in our [instructions for reviewers](/organisation/roles_and_guidelines)
  - documentation and ease of use,
  - availability in a permanent online repository.
 
-There is no requirement of anonymising the artefact, so these submissions are de-facto **single-blind**. Still, we
+There is no requirement of anonymising the artifact, so these submissions are de-facto **single-blind**. Still, we
 expect that the paper submitted for review satisfy the requirements of double-blind review outlined in the 
 [Call for Papers](/calls/main_track).
 
 ## Artifact Submission
 
 Artifacts must be submitted as part of the Supplementary Materials section in the OpenReview submission form. The following
-items must be found in the ZIP archive submitted as supplementary materials:
+text files must be found in the ZIP archive submitted as supplementary materials:
 
- - an abstract that summarises the artifact and its relation to the paper,
+ - an abstract (ABSTRACT) that summarises the artifact and its relation to the paper,
  - a license document (LICENSE) for the artifact that must, at the very least, allow the assigned PC members to evaluate the 
    artifact,
  - an instructions document (README) that includes:
-   - a hyperlink to the artifact,
-   - a description of additional requirements for the artifact, such as installation of proprietary software or particular
-     hardware resources,
+   - a hyperlink to the artifact (not the binary or source code of the artifact),
+   - a script to install and configure the artifact (e.g. Docker file or similar),
    - detailed instructions that enable the PC to quickly verify that the artifact is running properly,
    - detailed instructions for using the artifact to replicate the results in the paper, including estimated resources
      if these are non-trivial.
+
+We recommend the use of [Markdown](https://www.markdownguide.org/) to format these text files. We recommend that artifacts
+are configured for broad availability: Ubuntu 22.04 or better, Windows and MacOs. Broad availability is one of the criteria 
+for evaluating submissions.
 
 The artifact hyperlink must point to a service or repository that allows interaction with or downloading the artifact
 in a **completely anonymous fashion**. Failure to do so, or active attempts to identify the PC members reviewing the 
