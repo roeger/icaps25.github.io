@@ -129,6 +129,12 @@ languageCode = 'en_AU'
   url = "/calls/main_track"
   parent = "calls"
   weight = 10
+[[menu.main]]
+  identifier = "tools_papers_call"
+  name = "Tools Papers"
+  url = "/calls/tools_papers_call"
+  parent="calls"
+  weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
