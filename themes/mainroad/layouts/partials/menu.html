@@ -9,28 +9,42 @@
     {{- if .Name }}
     {{- if .HasChildren }}
     <li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
-      <a class="menu__link" href="{{ .URL }}">
+      <label for="{{ .Name }}" class="menu__link">
         {{ .Pre }}
         <span class="menu__text">
           {{ .Name }}</span>
-        <label class="drop-icon" for="{{ .Name }}">▾</label>
+        <input type="checkbox" id="{{ .Name }}">
+        <span class="drop-icon">▾</span>
         {{ .Post }}
-      </a>
-      <input type="checkbox" id="{{ .Name }}">
-      <ul class="submenu__list">
-        {{ range .Children }}
-        {{- if .HasChildren }}
-        <li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
-          <a class="menu__link" href="{{ .URL }}">
-            {{ .Pre }}
-            <span class="menu__text">
-              {{ .Name }}</span>
-            <label class="drop-icon" for="{{ .Name }}">▾</label>
-            {{ .Post }}
-          </a>
-          <input type="checkbox" id="{{ .Name }}">
-          <ul class="submenu__list">
+        </a>
+        <ul class="submenu__list">
+          <ul class="'submenu__listwrapper">
             {{ range .Children }}
+            {{- if .HasChildren }}
+            <li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+              <label for="{{ .Name }}" class="menu__link">
+                {{ .Pre }}
+                <span class="menu__text">
+                  {{ .Name }}</span>
+                <input type="checkbox" id="{{ .Name }}">
+                <span class="drop-icon">▾</span>
+                {{ .Post }}
+                </a>
+                <ul class="submenu__list">
+                  {{ range .Children }}
+                  <li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+                    <a class="menu__link" href="{{ .URL }}">
+                      {{ .Pre }}
+                      <span class="menu__text">
+                        {{ .Name }}</span>
+                      {{ .Post }}
+                    </a>
+                  </li>
+                  {{ end }}
+                </ul>
+            </li>
+            {{- else }}
+
             <li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
               <a class="menu__link" href="{{ .URL }}">
                 {{ .Pre }}
@@ -40,21 +54,9 @@
               </a>
             </li>
             {{ end }}
+            {{ end }}
           </ul>
-        </li>
-        {{- else }}
-
-        <li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
-          <a class="menu__link" href="{{ .URL }}">
-            {{ .Pre }}
-            <span class="menu__text">
-              {{ .Name }}</span>
-            {{ .Post }}
-          </a>
-        </li>
-        {{ end }}
-        {{ end }}
-      </ul>
+        </ul>
     </li>
     {{- else }}
 
