@@ -125,7 +125,7 @@ languageCode = 'en_AU'
   weight = 4000
 [[menu.main]]
   identifier = "main_track"
-  name = "Call for Papers"
+  name = "Main Track"
   url = "/calls/main_track"
   parent = "calls"
   weight = 10
