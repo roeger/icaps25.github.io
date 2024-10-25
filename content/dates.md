@@ -16,13 +16,13 @@ All dates for the Main Technical track have been announced. More dates related t
 - November 15 2024 - Desk reject notification
 - December 16, 2024 - Phase 1 reject notification
   - Authors receive Phase 1 reviews
-- January 27-31, 2024 - Author feedback period
-- February 28, 2025 - Phase 2 acceptance or rejection notifications
 
 
 ## 2025
-
+- January 27-31, 2024 - Author feedback period
+- February 28, 2025 - Phase 2 acceptance or rejection notifications
 - **February 28** -  Notification of acceptance or rejection
+- June/July, 2025 - Proceedings are available online
 </br>
 </br>
 ...
