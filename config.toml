@@ -403,6 +403,11 @@ languageCode = 'en_AU'
     name = "Desk Rejection"
     url = "/organisation/desk_rejection"
     parent = "organisation"
+  [[menu.main]]
+    identifier = "conflicts_of_interest"
+    name = "Conflicts of Interest"
+    url = "/organisation/conflicts_of_interest"
+    parent = "organisation"
 
 # CODE OF CONDUCT
   [[menu.main]]
