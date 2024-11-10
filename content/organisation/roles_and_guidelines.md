@@ -52,7 +52,7 @@ conference:
    committee to resolve any doubts or questions.
  - Place bids on papers that the AC is interested in and fall within their field of expertise. Avoid any obvious
    conflicts of interest.
- - Lead the process of [desk rejection](/content/organisation/desk_rejection).
+ - Lead the process of [desk rejection](/organisation/desk_rejection).
  - Report if they have a Conflict of Interest (see below) with one or more papers in the assignment. This may affect 
    yourself or the Reviewers assigned to the paper. ACs will know the identity of the Reviewers
  - The AC should read the paper carefully, taking notes where appropriate. These notes can evolve into 
