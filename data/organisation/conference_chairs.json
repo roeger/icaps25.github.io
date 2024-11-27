@@ -26,6 +26,11 @@
                     "country": "Australia"
                 },
                 {
+                    "name": "Julie Porteous",
+                    "institution": "RMIT University",
+                    "country": "Australia"
+                },
+                {
                     "name": "Miquel Ramirez",
                     "institution": "University of Melbourne",
                     "country": "Australia"
@@ -54,7 +59,7 @@
             "people": [
                 {
                     "name": "Charles Gretton",
-                    "institution": "Australian National University",
+                    "institution": "Australian National University, Australia",
                     "country": "Australia"
                 }
             ]
@@ -76,29 +81,19 @@
             ]
         },
         {
-            "position": "Web Design and Development",
-            "email": "nir.lipovetzky@unimelb.edu.au",
+            "position": "System Demo Chairs",
+            "email": "jiaoyanl@andrew.cmu.edu",
             "people": [
                 {
-                    "name": "Kevin Zheng",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Additional Contributors",
-            "email": "icaps25pc@googlegroups.com",
-            "people": [
-                {
-                    "name": "Julie Porteous",
-                    "institution": "RMIT University",
-                    "country": "Australia"
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA",
+                    "email": "jiaoyanl@andrew.cmu.edu"
                 },
                 {
-                    "name": "Stefan Pranger",
-                    "institution": "Graz University of Technology",
-                    "country": "Austria"
+                    "name": "Hector Palacios",
+                    "institution": "ATS Software",
+                    "country": "Canada"
                 }
             ]
         }
