@@ -34,7 +34,7 @@
         },
         {
             "position": "Doctoral Consortium Chairs",
-            "email": "Sarath.Sreedharan@colostate.edu",
+            // "email": "Sarath.Sreedharan@colostate.edu",
             "people": [
                 {
                     "name": "Sarath Sreedharan",
@@ -49,8 +49,25 @@
             ]
         },
         {
+            "position": "Workshop Chairs",
+            // "email": "chrpaluk@cvut.cz",
+            "people": [
+                {
+                    "name": "Lukas Chrpa",
+                    "institution": "Czech Technical University in Prague",
+                    "country": "Czech Republic",
+                    "email": "chrpaluk@cvut.cz"
+                },
+                {
+                    "name": "Ramon Fraga Pereira",
+                    "institution": "University of Manchester",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
             "position": "System Demo Chairs",
-            "email": "jiaoyanl@andrew.cmu.edu",
+            // "email": "jiaoyanl@andrew.cmu.edu",
             "people": [
                 {
                     "name": "Jiaoyang Li",
@@ -94,7 +111,7 @@
         },
         {
             "position": "Web Design and Development",
-            "email": "nir.lipovetzky@unimelb.edu.au",
+            // "email": "nir.lipovetzky@unimelb.edu.au",
             "people": [
                 {
                     "name": "Kevin Zheng",
@@ -105,7 +122,7 @@
         },
         {
             "position": "Additional Contributors",
-            "email": "icaps25pc@googlegroups.com",
+            // "email": "icaps25pc@googlegroups.com",
             "people": [
                 {
                     "name": "Julie Porteous",
@@ -121,4 +138,3 @@
         }
     ]
 }
-
