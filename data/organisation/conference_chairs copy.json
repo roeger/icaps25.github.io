@@ -1,0 +1,140 @@
+{
+    "items": [
+        {
+            "position": "Conference Chairs",
+            "email": "icaps2025@gmail.com",
+            "people": [
+                {
+                    "name": "Nir Lipovetzky",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Sebastian Sardina",
+                    "institution": "RMIT University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Program Chairs",
+            "email": "icaps25pc@googlegroups.com",
+            "people": [
+                {
+                    "name": "Daniel Harabor",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Miquel Ramirez",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Doctoral Consortium Chairs",
+            "emailc": "Sarath.Sreedharan@colostate.edu",
+            "people": [
+                {
+                    "name": "Sarath Sreedharan",
+                    "institution": "Colorado State University",
+                    "country": "United States"
+                },
+                {
+                    "name": "Felipe Meneguzzi",
+                    "institution": "University of Aberdeen",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
+            "position": "Workshop Chairs",
+            "emailc": "chrpaluk@cvut.cz",
+            "people": [
+                {
+                    "name": "Lukas Chrpa",
+                    "institution": "Czech Technical University in Prague",
+                    "country": "Czech Republic",
+                    "email": "chrpaluk@cvut.cz"
+                },
+                {
+                    "name": "Ramon Fraga Pereira",
+                    "institution": "University of Manchester",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
+            "position": "System Demo Chairs",
+            "emailc": "jiaoyanl@andrew.cmu.edu",
+            "people": [
+                {
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA",
+                    "email": "jiaoyanl@andrew.cmu.edu"
+                },
+                {
+                    "name": "Hector Palacios",
+                    "institution": "ATS Software",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Sponsorship Chair",
+            "email": "charles.gretton@anu.edu.au",
+            "people": [
+                {
+                    "name": "Charles Gretton",
+                    "institution": "Australian National University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Diversity and Inclusion Chairs",
+            "email": "mor.vered@monash.edu",
+            "people": [
+                {
+                    "name": "Mor Vered",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Reuth Mirsky",
+                    "institution": "Bar-Ilan University",
+                    "country": "Israel"
+                }
+            ]
+        },
+        {
+            "position": "Web Design and Development",
+            "emailc": "nir.lipovetzky@unimelb.edu.au",
+            "people": [
+                {
+                    "name": "Kevin Zheng",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Additional Contributors",
+            "emailc": "icaps25pc@googlegroups.com",
+            "people": [
+                {
+                    "name": "Julie Porteous",
+                    "institution": "RMIT University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Stefan Pranger",
+                    "institution": "Graz University of Technology",
+                    "country": "Austria"
+                }
+            ]
+        }
+    ]
+}
