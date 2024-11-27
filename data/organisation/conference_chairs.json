@@ -26,11 +26,6 @@
                     "country": "Australia"
                 },
                 {
-                    "name": "Julie Porteous",
-                    "institution": "RMIT University",
-                    "country": "Australia"
-                },
-                {
                     "name": "Miquel Ramirez",
                     "institution": "University of Melbourne",
                     "country": "Australia"
@@ -54,12 +49,29 @@
             ]
         },
         {
+            "position": "System Demo Chairs",
+            "email": "jiaoyanl@andrew.cmu.edu",
+            "people": [
+                {
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA",
+                    "email": "jiaoyanl@andrew.cmu.edu"
+                },
+                {
+                    "name": "Hector Palacios",
+                    "institution": "ATS Software",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
             "position": "Sponsorship Chair",
             "email": "charles.gretton@anu.edu.au",
             "people": [
                 {
                     "name": "Charles Gretton",
-                    "institution": "Australian National University, Australia",
+                    "institution": "Australian National University",
                     "country": "Australia"
                 }
             ]
@@ -81,21 +93,32 @@
             ]
         },
         {
-            "position": "System Demo Chairs",
-            "email": "jiaoyanl@andrew.cmu.edu",
+            "position": "Web Design and Development",
+            "email": "nir.lipovetzky@unimelb.edu.au",
             "people": [
                 {
-                    "name": "Jiaoyang Li",
-                    "institution": "Carnegie Mellon University",
-                    "country": "USA",
-                    "email": "jiaoyanl@andrew.cmu.edu"
+                    "name": "Kevin Zheng",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Additional Contributors",
+            "email": "icaps25pc@googlegroups.com",
+            "people": [
+                {
+                    "name": "Julie Porteous",
+                    "institution": "RMIT University",
+                    "country": "Australia"
                 },
                 {
-                    "name": "Hector Palacios",
-                    "institution": "ATS Software",
-                    "country": "Canada"
+                    "name": "Stefan Pranger",
+                    "institution": "Graz University of Technology",
+                    "country": "Austria"
                 }
             ]
         }
     ]
 }
+
