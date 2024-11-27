@@ -34,7 +34,7 @@
         },
         {
             "position": "Doctoral Consortium Chairs",
-            // "email": "Sarath.Sreedharan@colostate.edu",
+            "emailc": "Sarath.Sreedharan@colostate.edu",
             "people": [
                 {
                     "name": "Sarath Sreedharan",
@@ -50,7 +50,7 @@
         },
         {
             "position": "Workshop Chairs",
-            // "email": "chrpaluk@cvut.cz",
+            "emailc": "chrpaluk@cvut.cz",
             "people": [
                 {
                     "name": "Lukas Chrpa",
@@ -67,7 +67,7 @@
         },
         {
             "position": "System Demo Chairs",
-            // "email": "jiaoyanl@andrew.cmu.edu",
+            "emailc": "jiaoyanl@andrew.cmu.edu",
             "people": [
                 {
                     "name": "Jiaoyang Li",
@@ -111,7 +111,7 @@
         },
         {
             "position": "Web Design and Development",
-            // "email": "nir.lipovetzky@unimelb.edu.au",
+            "emailc": "nir.lipovetzky@unimelb.edu.au",
             "people": [
                 {
                     "name": "Kevin Zheng",
@@ -122,7 +122,7 @@
         },
         {
             "position": "Additional Contributors",
-            // "email": "icaps25pc@googlegroups.com",
+            "emailc": "icaps25pc@googlegroups.com",
             "people": [
                 {
                     "name": "Julie Porteous",
