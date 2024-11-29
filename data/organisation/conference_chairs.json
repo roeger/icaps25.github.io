@@ -77,8 +77,17 @@
                 },
                 {
                     "name": "Hector Palacios",
-                    "institution": "ATS Software",
                     "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Journal Chair",
+            "people": [
+                {
+                    "name": "Enrico Scala",
+                    "institution": "University of Brescia",
+                    "country": "Italy"
                 }
             ]
         },
