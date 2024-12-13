@@ -49,6 +49,22 @@
             ]
         },
         {
+            "position": "Tutorial Chairs",
+            "emailc": "daniel.gnad@liu.se",
+            "people": [
+                {
+                    "name": "Peta Masters",
+                    "institution": "Linköping University",
+                    "country": "Sweden"
+                },
+                {
+                    "name": "Peta Masters",
+                    "institution": "King's College London",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
             "position": "Workshop Chairs",
             "emailc": "chrpaluk@cvut.cz",
             "people": [
@@ -73,7 +89,6 @@
                     "name": "Jiaoyang Li",
                     "institution": "Carnegie Mellon University",
                     "country": "USA",
-                    "email": "jiaoyanl@andrew.cmu.edu"
                 },
                 {
                     "name": "Hector Palacios",
