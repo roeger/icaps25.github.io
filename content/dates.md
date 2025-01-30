@@ -19,7 +19,7 @@ All dates for the Main Technical track have been announced. More dates related t
 
 
 ## 2025
-- January 30- February 4, 2025 - Author feedback period
+- January 30 to February 4, 2025 - Author feedback period
 - February 28, 2025 - Phase 2 acceptance or rejection notifications
 - **February 28** -  Notification of acceptance or rejection
 - June/July, 2025 - Proceedings are available online
