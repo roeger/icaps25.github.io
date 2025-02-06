@@ -27,7 +27,6 @@ All dates for the Main Technical track have been announced. More dates related t
 - 15 April 2025 - Workshops materials online
 - June/July, 2025 - Proceedings are available online
 - 21 July 2025 - Workshop accepted papers online
-
 </br>
 </br>
 ...
