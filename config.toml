@@ -159,12 +159,12 @@ languageCode = 'en_AU'
 #    url = "/calls/previously_published_papers"
 #    parent = "calls"
 #    weight = 45
-#  [[menu.main]]
-#    identifier = "workshop_call"
-#    name = "Call for Workshop Proposals"
-#    url = "/calls/workshop_call"
-#    parent = "calls"
-#    weight = 50
+[[menu.main]]
+  identifier = "workshop_call"
+  name = "Call for Workshop Proposals"
+  url = "/calls/workshop_call"
+  parent = "calls"
+  weight = 50
 #  [[menu.main]]
 #    identifier = "tutorial_call"
 #    name = "Call for Tutorial Proposals"
