@@ -20,9 +20,14 @@ All dates for the Main Technical track have been announced. More dates related t
 
 ## 2025
 - January 30 to February 4, 2025 - Author feedback period
-- February 5 to February 28, 2025 - Discussion phase.
-- **March 1, 2025** - Notifications are sent to authors.
+- February 5 to February 28, 2025 - Discussion phase
+- **March 1, 2025** - Notifications are sent to authors
+- **March 10, 2025** - Workshop proposals due
+- March 31, 2025 - Workshop acceptance notification
+- 15 April 2025 - Workshops materials online
 - June/July, 2025 - Proceedings are available online
+- 21 July 2025 - Workshop accepted papers online
+
 </br>
 </br>
 ...
