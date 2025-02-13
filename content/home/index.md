@@ -22,8 +22,8 @@ applications of intelligent and automated planning and scheduling technology.
 
 **ICAPS 2025** is the 35th edition of the ICAPS conference series and will take place in Melbourne, Victoria, Australia in November 2025. The conference will be co-located with the following events:
 
-- [KR-2025](https://kr.org/): The 22nd International Conference on Principles of Knowledge Representation and Reasoning.
-- [CPAIOR-2025](https://cpaior.org/): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
+- [KR-2025](https://kr.org//KR2025/): The 22nd International Conference on Principles of Knowledge Representation and Reasoning.
+- [CPAIOR-2025](https://sites.google.com/view/cpaior2025): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
 - **Planning and Optimisation Summer School 2025**, the details of which will be announced here at a future
   date.
 
