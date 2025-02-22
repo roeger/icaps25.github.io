@@ -139,6 +139,22 @@
             ]
         },
         {
+            "position": "Publicity Chairs",
+            "email": "chenyuan.zhang@monash.edu",
+            "people": [
+                {
+                    "name": "Chao Lei",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Chenyuan Zhang",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
             "position": "Web Design and Development",
             "emailc": "nir.lipovetzky@unimelb.edu.au",
             "people": [
