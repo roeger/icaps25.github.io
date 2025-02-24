@@ -44,3 +44,6 @@ in the organisation of the conference with respect to previous editions:
 <div align="center">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/4H9QyvOapek?si=3O7uiKJf5nylDLgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+
+{{< sponsors_table_json "/data/sponsors/sponsors.json" >}}
