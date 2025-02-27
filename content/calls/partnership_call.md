@@ -41,5 +41,6 @@ draft: false
 ---
 
 **For further information, please contact:**  
-**[charles.gretton@anu.edu.au](mailto:charles.gretton@anu.edu.au)**  
+**[charles.gretton@anu.edu.au](mailto:charles.gretton@anu.edu.au?subject=2025%20ICAPS%20and%20CPAIOR%20Sponsorship)** 
+**, or via [LinkedIn profile](https://www.linkedin.com/in/cgretton/).**
 **Sponsorship Team Lead: Charles Gretton**  
