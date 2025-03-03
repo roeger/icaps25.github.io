@@ -8,6 +8,5 @@ draft: false
 
 It is against the [ICAPS Code of Conduct](https://www.icaps-conference.org/index.php/Main/CodeOfConduct) to engage in discriminatory harassment against individuals participating at ICAPS. If you have been harassed or disparaged in violation of the [ICAPS Code of Conduct](https://www.icaps-conference.org/icaps-code-of-conduct/), please report the incident through the [ICAPS Incident Report Form](https://incident-report.icaps-conference.org/).
 
-<!-- 
-If you would like to reach out to someone directly, you can reach out to one of the two official advocates for ICAPS 2025 --
-[Jonathan Schaeffer](mailto:jonathan@ualberta.ca) and [Iman Awaad](mailto:iman.awaad@h-brs.de) -- or the ICAPS Inclusion Chair, [Shirin Sohrabi](mailto:ssohrab@us.ibm.com). -->
+
+If you would like to reach out to someone directly, you can reach out to the ICAPS official advocates [Yue Zhang](mailto:yue.zhang@monash.edu) and Inclusion Chairs -- [Mor Vered](mailto:mor.vered@monash.edu) and [Reuth Mirsky](mailto:reuthde@gmail.com).
