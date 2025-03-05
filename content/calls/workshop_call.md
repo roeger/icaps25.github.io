@@ -34,10 +34,10 @@ The organizers of accepted workshop proposals are responsible for:
 
 
 ## Submission Procedure
-Workshop proposals should be submitted by email, in plain text or PDF, to icaps2025-workshops@googlegroups.com with the subject “Workshop Proposal for ICAPS2025” no later than 10 March 2025. Workshop organizers will be notified by email of the acceptance or rejection of their proposal by 31 March 2025. All PDFs must be less than 25 MB in size.
+Workshop proposals should be submitted by email, in plain text or PDF, to icaps2025-workshops@googlegroups.com with the subject “Workshop Proposal for ICAPS2025” no later than ~~10 March~~ 17 March 2025. Workshop organizers will be notified by email of the acceptance or rejection of their proposal by 31 March 2025. All PDFs must be less than 25 MB in size.
 
 ## Summary of Important Dates:
-- Deadline for submission of workshop proposals: 10 March 2025.
+- Deadline for submission of workshop proposals: ~~10 March~~ 17 March 2025.
 - Notification of workshop acceptance: 31 March 2025.
 - Workshop Call for Papers and materials for the website: 15 April 2025
 - List of accepted papers on the workshop website: 21 July 2025.
