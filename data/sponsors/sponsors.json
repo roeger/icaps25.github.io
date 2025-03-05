@@ -1,6 +1,17 @@
 {
 	"levels": [
 		{
+			"rank": "Gold Partners",
+			"list": [
+				{
+					"logo": "/img/partners/dsmith.jpg",
+					"height": "-1",
+					"width": "130",
+					"link": "http://psresearch.xyz"
+				}	
+			]
+		},
+		{
 			"rank": "Silver Partners",
 			"list": [
 				{
@@ -8,12 +19,6 @@
 					"height": "-1",
 					"width": "300",
 					"link": "https://aij.ijcai.org"
-				},
-				{
-					"logo": "/img/partners/dsmith.jpg",
-					"height": "-1",
-					"width": "130",
-					"link": "http://psresearch.xyz"
 				}	
 			]
 		},
