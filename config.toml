@@ -165,12 +165,12 @@ languageCode = 'en_AU'
   url = "/calls/workshop_call"
   parent = "calls"
   weight = 50
-#  [[menu.main]]
-#    identifier = "tutorial_call"
-#    name = "Call for Tutorial Proposals"
-#    url = "/calls/tutorial_call"
-#    parent = "calls"
-#    weight = 50
+[[menu.main]]
+  identifier = "tutorial_call"
+  name = "Call for Tutorial Proposals"
+  url = "/calls/tutorial_call"
+  parent = "calls"
+  weight = 50
  [[menu.main]]
    identifier = "demos_call"
    name = "Call for System Demonstrations"
