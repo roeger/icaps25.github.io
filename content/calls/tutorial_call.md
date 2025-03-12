@@ -4,12 +4,8 @@ date: 2023-01-23T14:00:00+01:00
 draft: false
 ---
 
-# Call for Tutorial Proposals - 2025
 
-Owner: Peta Masters
-Created time: March 10
-
-# ICAPS 2025 Call for Tutorial Proposals (Website version)
+# ICAPS 2025 Call for Tutorial Proposals
 
 **Submission Deadline: 27 April  2025**
 
