@@ -5,13 +5,18 @@ draft: false
 ---
 
 
+# Call for Tutorial Proposals - 2025
+
+Owner: Peta Masters
+Created time: March 10
+
 # ICAPS 2025 Call for Tutorial Proposals
 
-**Submission Deadline: 27 April  2025**
+**Submission Deadline: 27 April 2025**
 
 The Organizing Committee for the 35th International Conference on Automated Planning and Scheduling (ICAPS 2025) invites proposals for its Tutorial Program. Tutorials offer the attendees a review of a specific subfield by a leading expert. Participation in the tutorials is free for all ICAPS participants.
 
-We welcome proposals in all areas related to AI planning and scheduling, and highly encourage topics that have not appeared in recent ICAPS tutorials. This year, given the co-location with KR 2025, we particularly welcome tutorial proposals covering topics at the intersection of planning & scheduling and knowledge representation & reasoning.
+We welcome proposals in all areas related to AI planning and scheduling, and highly encourage topics that have not appeared in recent ICAPS tutorials. This year, given the co-location with KR 2025 and CPAIOR 2025, we particularly welcome tutorial proposals covering topics at the intersection of planning & scheduling with knowledge representation & reasoning, constraint programming or operations research.
 
 We accept both introductory tutorials and more advanced tutorials covering recent advances in depth and encourage proposals that address techniques of relevance to planning and scheduling, even if planning and scheduling is not the main focus of the proposed tutorial. Proposals could target, for example,
 
