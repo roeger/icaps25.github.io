@@ -6,9 +6,15 @@
 				{
 					"logo": "/img/partners/dsmith.jpg",
 					"height": "-1",
-					"width": "130",
+					"width": "200",
 					"link": "http://psresearch.xyz"
-				}	
+				},
+				{
+					"logo": "/img/partners/logo-desktop.svg",
+					"height": "-1",
+					"width": "500",
+					"link": "https://www.nsf.gov/"
+				}
 			]
 		},
 		{
@@ -19,7 +25,13 @@
 					"height": "-1",
 					"width": "300",
 					"link": "https://aij.ijcai.org"
-				}	
+				},
+				{
+					"logo": "/img/partners/LearningMachinesLogo_V2.jpg",
+					"height": "-1",
+					"width": "300",
+					"link": "https://www.learningmachines.au/"
+				}
 			]
 		},
 		{

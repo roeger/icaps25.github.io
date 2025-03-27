@@ -224,12 +224,12 @@ languageCode = 'en_AU'
 #   url = "/program/schedule"
 #   parent = "program"
 #   weight = 13
-# [[menu.main]]
-#   identifier = "accepted-papers"
-#   name = "Accepted Papers"
-#   url = "/program/accepted"
-#   parent = "program"
-#   weight = "15"
+[[menu.main]]
+  identifier = "accepted-papers"
+  name = "Accepted Papers"
+  url = "/program/accepted"
+  parent = "program"
+  weight = "15"
 # [[menu.main]]
 #   identifier = "awards"
 #    name = "Awards"
