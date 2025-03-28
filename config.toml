@@ -171,18 +171,24 @@ languageCode = 'en_AU'
   url = "/calls/tutorial_call"
   parent = "calls"
   weight = 50
- [[menu.main]]
-   identifier = "demos_call"
-   name = "Call for System Demonstrations"
-   url = "/calls/demos"
-   parent = "calls"
-   weight = 70
-# [[menu.main]]
-#   identifier = "dc_call"
-#   name = "Call for Doctoral Consortium"
-#   url = "/calls/dc"
-#   parent = "calls"
-#   weight = 80
+[[menu.main]]
+  identifier = "demos_call"
+  name = "Call for System Demonstrations"
+  url = "/calls/demos"
+  parent = "calls"
+  weight = 70
+[[menu.main]]
+ identifier = "dc_call"
+ name = "Call for Doctoral Consortium"
+ url = "/calls/dc"
+ parent = "calls"
+ weight = 80
+[[menu.main]]
+ identifier = "lp_call"
+ name = "Call for LaunchPad Workshop"
+ url = "/calls/lp_call"
+ parent = "calls"
+ weight = 80
 # [[menu.main]]
 #   identifier = "ss_call"
 #   name = "Call for Summer School"
