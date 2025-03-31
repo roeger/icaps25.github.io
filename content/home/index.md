@@ -27,7 +27,7 @@ applications of intelligent and automated planning and scheduling technology.
 - **Planning and Optimisation Summer School 2025**, the details of which will be announced here at a future
   date.
 
-The organisers of ICAPS 2025 invite [technical paper
+<!-- The organisers of ICAPS 2025 invite [technical paper
 submissions](/calls/main_track) from
 researchers and industrial practitioners, on all aspects of automated planning
 and scheduling technology. Relevant contributions include, but are not limited
@@ -36,7 +36,7 @@ to:
 - Theoretical and empirical studies of planning and scheduling problems and algorithms;
 - Novel techniques and approaches that extend the scope and scale of problems that can be solved;
 - Novel tools and frameworks for analysing and verifying the properties of systems executing plans, policies or schedules;
-- Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight.
+- Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight. -->
 
 
 {{< sponsors_table_json "/data/sponsors/sponsors.json" >}}
