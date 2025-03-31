@@ -6,13 +6,13 @@
 				{
 					"logo": "/img/partners/dsmith.jpg",
 					"height": "-1",
-					"width": "200",
+					"width": "150",
 					"link": "http://psresearch.xyz"
 				},
 				{
 					"logo": "/img/partners/logo-desktop.svg",
 					"height": "-1",
-					"width": "500",
+					"width": "250",
 					"link": "https://www.nsf.gov/"
 				}
 			]
@@ -23,13 +23,13 @@
 				{
 					"logo": "/img/partners/aij.jpeg",
 					"height": "-1",
-					"width": "300",
+					"width": "150",
 					"link": "https://aij.ijcai.org"
 				},
 				{
 					"logo": "/img/partners/LearningMachinesLogo_V2.jpg",
 					"height": "-1",
-					"width": "300",
+					"width": "150",
 					"link": "https://www.learningmachines.au/"
 				}
 			]
@@ -40,7 +40,7 @@
 				{
 					"logo": "/img/partners/jpmorgan.png",
 					"height": "-1",
-					"width": "380",
+					"width": "280",
 					"link": "https://www.jpmorgan.com"
 				}
 			]
