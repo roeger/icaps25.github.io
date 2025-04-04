@@ -1,6 +1,17 @@
 {
 	"levels": [
 		{
+			"rank": "Platinim Partners",
+			"list": [
+				{
+					"logo": "/img/partners/OPTIMA-land.svg",
+					"height": "-1",
+					"width": "550",
+					"link": "https://optima.org.au/"
+				}
+			]
+		},
+		{
 			"rank": "Gold Partners",
 			"list": [
 				{
