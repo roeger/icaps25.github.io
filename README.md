@@ -6,70 +6,51 @@ This site is published via a GH Action workflow to the following GH-pages:
 
 https://icaps25.github.io/
 
-## Framework: Hugo + Deployment to GH-pages via GH Actions
+## Instructions for submitting updates
 
-The site is built with [HUGO](https://gohugo.io) framework for automated generation of _static_ web content.
+### Clone the ICAPS2024 repository and set up your local repository ###
+1. Sign up for Github
+2. Go to https://github.com/icaps2025/icaps2025.github.io and click the 'Fork' button in the upper right.  This should create and bring you to your own copy of the ICAPS website repository.
+3. Use git to clone your repository. After successfully clonning the repository you should end up with a directory called `icaps2025.github.io`. This directory will be refered to as *website root*.
 
-All development of the website is meant to happen in this repo. When changes are pushed to branch `main`, a GH Actions workflow:
-
-1. first _builds_ the static pages (by running `hugo`); and then
-2. _deploys_ the site into [github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
-See below for how to locally develop the site and how to publish automatically.
-
-### Tools used
-
-- [HUGO](https://gohugo.io) framework for production of static web pages.
-- [Weather Widget](https://weatherwidget.org/): for the weather widget at the conference location.
-
-## Development
-
-It is convenient to develop and test locally your site _before_ pushing it to the remote repo (which kicks off the deployment workflow to re-build the site).
-
-To test your site locally, just run the following to build the site and bringing up a local server for it:
-
-```shell
-$ hugo server
-...
-Built in 19 ms
-Environment: "development"
-Serving pages from disk
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
-Press Ctrl+C to stop
+### Set up a remote tracking branch ###
+After you've cloned the ICAPS on GitHub and set it up on your local machine, you should run the following command from the *website root* to add a remote repository for tracking changes to the main site:
+ ```
+$ git remote add icaps git@github.com:icaps2025/icaps2025.github.io.git
 ```
+You only need to do this once for your local repository.
 
-The site can be accessed locally at http://localhost:1313/ and is locally produced in folder `public/` (not tracked by git).
-
-Once happy with the changes to the site, push the changes to the remote repo for building and deployment.
-
-### Deploy to GH-pages via GH Actions
-
-GH already provides Hugo workflows to build the site from your sources (i.e., produce the static web pages) and deploy the site to GH-pages.
-
-All you need to set-up the _Build and deployment_ mode of this repo as follows:
-
-![](gh-pages-settings.png)
-
-There will be built-in scripts for Hugo that will produce file
-[.github/workflows/hugo.yml](.github/workflows/hugo.yml).
-
-The workshop will trigger when there is a new push into `main` branch.
-
-The webpage will be accessible at `https://<username>.github.io`
-
-### Deployment elsewhere
-
-Hugo can produce the set of static pages that can be copied to any WWW server.
-
-To (only) build the static pages without running the local server:
-
-```shell
-$ hugo -t mainroad -d <FOLDER TO BUILD STATIC PAGES>
+### Branch to make your edits ###
+Use git-fetch to update the remote repository, and then create a new branch for the pull request you plan to make:
 ```
+$ git fetch icaps
+$ git checkout -b <branch-name> icaps/master
+```
+Edit your files normally.
 
-If `-d` is not given, it will be produced in folder `public/`.
+If you add a new file or make some edits to existing files, remember to add it with `git add`.  Commit your changes with `git commit`,  and push it back to GitHub with `git push`:
+```
+$ git add <path-to-new-file>
+$ git status // optional step to verify what exactly is going to be committed
+$ git commit -am <useful but terse change description>
+$ git push origin
+```
+You should repeat this part of the procedure for each new pull request.
 
-If you want to deploy the built web pages to another location than GH (e.g., your uni servers), just copy the content under `public/`.
+## Testing changes
+The site is built with [HUGO](https://gohugo.io) framework for automated generation of static web content.
+If you have [hugo installed](https://gohugo.io/getting-started/installing) on your system, you can test your changes by running
+`hugo server` in the *website root*.
+This will start a webserver on http://localhost:1313.
 
-If the static web pages are meant to live on another web-site, you can use the [`deploy.sh`](deploy.sh) script for copying the built site, and pushing the changes.
+### Creating your pull request ###
+Use https://github.com/icaps2025/icaps2025.github.io/pulls to create a "Pull request", which will notify us that your changes are ready to apply, and we'll log on to merge them into the main site.
+
+The website maintainers will be notified and (hopefully) approve the changes to the site, at which point they'll go live.
+
+If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
+
+## Development Framework New ICAPS web: Hugo + Deployment to GH-pages via GH Actions
+
+[This information](deployment.md) is useful for those setting up a new webpage for future ICAPS iterations.
+
