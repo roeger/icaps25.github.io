@@ -50,7 +50,7 @@ The website maintainers will be notified and (hopefully) approve the changes to 
 
 If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
 
-## Development Framework New ICAPS web: Hugo + Deployment to GH-pages via GH Actions
+## Development Framework: New ICAPS website
 
-[This information](deployment.md) is useful for those setting up a new webpage for future ICAPS iterations.
+[This information on Hugo + Deployment to GH-pages via GH Actions](deployment.md) is useful for those setting up a new webpage for future ICAPS iterations.
 
