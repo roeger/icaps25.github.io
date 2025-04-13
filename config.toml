@@ -266,12 +266,12 @@ languageCode = 'en_AU'
 #   url = "/program/panel"
 #   parent = "program"
 #   weight = "35"
-# [[menu.main]]
-#   identifier = "ws"
-#   name = "Workshops"
-#   parent = "program"
-#   url = "/program/ws_overview"
-#   weight = 40
+[[menu.main]]
+  identifier = "ws"
+  name = "Workshops"
+  parent = "program"
+  url = "/program/ws_overview"
+  weight = 40
 ######################### TUTORIALS
 #[[menu.main]]
 #   identifier = "tutorials"
@@ -310,66 +310,72 @@ languageCode = 'en_AU'
 #  url = "/program/tutorials/2024_t05_rl_coach"
 #  weight = "50"
 ### WORKSHOPS
-# [[menu.main]]
-#   identifier = "keps"
-#   name = "KEPS"
-#   parent = "ws"
-#   url = "/program/workshops/keps"
-#   weight = 10
-#  [[menu.main]]
-#    identifier = "hplan"
-#    name = "HPlan"
-#    url = "/program/workshops/hplan"
-#    parent = "ws"
-#    weight = 20
-# [[menu.main]]
-#   identifier = "wipc"
-#   name = "WIPC"
-#   url = "/program/workshops/wipc"
-#   parent = "ws"
-#   weight = 30
-#  [[menu.main]]
-#    identifier = "prl"
-#    name = "PRL"
-#    parent = "ws"
-#    url = "/program/workshops/prl"
-#    weight = 40
-#  [[menu.main]]
-#    identifier = "haxp"
-#    name = "HAXP"
-#    url = "/program/workshops/haxp"
-#    parent = "ws"
-#    weight = 50
-#  [[menu.main]]
-#    identifier = "haxp"
-#    name = "HAXP"
-#    parent = "ws"
-#    url = "/program/workshops/haxp"
-#    weight = 60
-#  [[menu.main]]
-#    identifier = "weep"
-#    name = "WEEP"
-#    parent = "ws"
-#    url = "/program/workshops/weep"
-#    weight = 70
-# [[menu.main]]
-#   identifier = "rddps"
-#   name = "RDDPS"
-#   parent = "ws"
-#   url = "/program/workshops/rddps"
-#   weight = 80
-#  [[menu.main]]
-#    identifier = "hsdip"
-#    name = "HSDIP"
-#    parent = "ws"
-#    url = "/program/workshops/hsdip"
-#    weight = 90
-# [[menu.main]]
-#   identifier = "planrob"
-#   name = "PlanRob"
-#   parent = "ws"
-#   url = "/program/workshops/planrob"
-#   weight = 100
+  [[menu.main]]
+    identifier = "casp_er"
+    name = "CASP:ER"
+    parent = "ws"
+    url = "/program/workshops/casp_er"
+    weight = 10
+  [[menu.main]]
+    identifier = "haxp"
+    name = "HAXP"
+    url = "/program/workshops/haxp"
+    parent = "ws"
+    weight = 20
+  [[menu.main]]
+    identifier = "hsdip"
+    name = "HSDIP"
+    url = "/program/workshops/hsdip"
+    parent = "ws"
+    weight = 30
+  [[menu.main]]
+    identifier = "hplan"
+    name = "HPlan"
+    parent = "ws"
+    url = "/program/workshops/hplan"
+    weight = 40
+  [[menu.main]]
+    identifier = "keps"
+    name = "KEPS"
+    url = "/program/workshops/keps"
+    parent = "ws"
+    weight = 50
+  [[menu.main]]
+    identifier = "krplan"
+    name = "KRPlan"
+    parent = "ws"
+    url = "/program/workshops/krplan"
+    weight = 60
+  [[menu.main]]
+    identifier = "lm4plan"
+    name = "LM4Plan"
+    parent = "ws"
+    url = "/program/workshops/lm4plan"
+    weight = 70
+  [[menu.main]]
+    identifier = "planrob"
+    name = "PlanRob"
+    parent = "ws"
+    url = "/program/workshops/planrob"
+    weight = 80
+  [[menu.main]]
+    identifier = "prl"
+    name = "PRL"
+    parent = "ws"
+    url = "/program/workshops/prl"
+    weight = 90
+  [[menu.main]]
+    identifier = "ripl"
+    name = "RIPL"
+    parent = "ws"
+    url = "/program/workshops/ripl"
+    weight = 100
+  [[menu.main]]
+    identifier = "women_computing"
+    name = "Women in Computing"
+    parent = "ws"
+    url = "/program/workshops/women_computing"
+    weight = 100
 #
 ######################### COMMITTEES
   [[menu.main]]

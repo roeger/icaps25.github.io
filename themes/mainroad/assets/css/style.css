@@ -1638,8 +1638,28 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	text-transform: uppercase;
 }
 
+.menu__list .menu__item .submenu__list {
+	background: #2a2a2a;
+	visibility: hidden;
+	opacity: 0;
+	position: absolute;
+	max-width: 15rem;
+	transition: all 0.5s ease;
+	border-top: 5px solid #f5821f;
+	display: none;
+  }
+
 .menu__item.menu__dropdown input[type="checkbox"] {
 	display: none;
+}
+
+.menu__list .menu__item:hover > .submenu__list,
+.menu__list .menu__item:focus-within > .submenu__list,
+.menu__list .menu__item .submenu__list:hover,
+.menu__list .menu__item .submenu__list:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
 }
 
 .menu__link:hover {
@@ -1670,7 +1690,7 @@ highlightColor .menu__list--transition {
 		-webkit-transform 0.15s ease;
 }
 @media screen and (min-width: 767px) {
-	.menu__list .menu__item:hover .submenu__list,
+	/* .menu__list .menu__item:hover .submenu__list,
 	.menu__list .menu__item:focus-within .submenu__list,
 	.menu__list .menu__item .submenu__list:hover,
 	.menu__list .menu__item .submenu__list:focus {
@@ -1692,7 +1712,7 @@ highlightColor .menu__list--transition {
 		border-top: 5px solid #f5821f;
 
 		display: none;
-	}
+	} */
 	.menu {
 		border-bottom: 5px solid #f5821f;
 	}
@@ -1726,7 +1746,7 @@ highlightColor .menu__list--transition {
 		top: auto;
 	}
 
-	.menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list {
+	.menu__item.menu__dropdown input[type="checkbox"] + .submenu__list {
 		display: grid;
 		opacity: 0;
 		grid-template-rows: 0fr;
@@ -1734,7 +1754,7 @@ highlightColor .menu__list--transition {
 		transition-property: opacity, grid-template-rows, visibility !important;
 	}
 
-	.menu__item.menu__dropdown input[type="checkbox"]:checked ~ .submenu__list {
+	.menu__item.menu__dropdown input[type="checkbox"]:checked + .submenu__list {
 		grid-template-rows: 1fr;
 		border: none;
 		opacity: 1;
@@ -1743,12 +1763,12 @@ highlightColor .menu__list--transition {
 		visibility: visible;
 	}
 
-	.menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list > * {
+	/* .menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list > * {
 		overflow-y: hidden;
 	}
 	.menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list > * > * {
 		padding-left: 20px;
-	}
+	} */
 }
 
 @media screen and (max-width: 620px) {
