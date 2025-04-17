@@ -18,7 +18,7 @@ As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. We enc
 
 ## Mentoring Program
 
-The Mentoring Program is designed to provide graduate students with an opportunity for in-depth advice by senior members of the field regarding careers and research skills. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas. Each student accepted to the program will be matched with an established researcher in the field who will assist the student with research and career management advice. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
+The Mentoring Program is designed to provide graduate students with an opportunity for in-depth advice by senior members of the field regarding careers and research skills. We especially encourage students who are currently in the middle of their doctoral programs to apply, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas. Each student accepted to the program will be matched with an established researcher in the field who will assist the student with research and career management advice. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
 
 ## Application Procedure for the Mentoring Program
 
