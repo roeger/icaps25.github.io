@@ -6,7 +6,7 @@ draft: false
 
 # ICAPS 2025 Call for Tutorial Proposals
 
-**Submission Deadline: 27 April 2025**
+**Submission Deadline: ~~27 April~~ 4 May 2025**
 
 The Organizing Committee for the 35th International Conference on Automated Planning and Scheduling (ICAPS 2025) invites proposals for its Tutorial Program. Tutorials offer the attendees a review of a specific subfield by a leading expert. Participation in the tutorials is free for all ICAPS participants.
 
