@@ -35,7 +35,7 @@ Tutorial proposals should be submitted by email, in PDF, to the Tutorial Chairs 
 
 **Summary of Important Dates**
 
-The deadline for submission of proposals is 27 April 2025.
+The deadline for submission of proposals is ~~27 April 2025~~ 4 May.
 
 Notification of tutorial acceptance: 11 May 2025.
 
