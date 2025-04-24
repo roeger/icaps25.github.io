@@ -31,7 +31,7 @@ We encourage tutorials that (i) include a hands-on session that can be completed
 
 Tutorial Submissions should include the tutorial's title, type (advanced or introductory), summary, outline, and expected length (half-day or quarter-day) as well as a short CV of the proposer(s), including a list of significant publications and/or prior tutorial experience. The proposal should not exceed two pages.
 
-Tutorial proposals should be submitted by email, in PDF, to the Tutorial Chairs with the subject "Tutorial Proposal for ICAPS-25" no later than April 27th 2025, AoE. Organizers of tutorials will be notified by email of the acceptance or rejection of their proposal by May 11th 2025.
+Tutorial proposals should be submitted by email, in PDF, to the Tutorial Chairs with the subject "Tutorial Proposal for ICAPS-25" no later than ~~April 27th~~ May 4th 2025, AoE. Organizers of tutorials will be notified by email of the acceptance or rejection of their proposal by May 11th 2025.
 
 **Summary of Important Dates**
 
