@@ -72,5 +72,5 @@ You can contact us at TODO.
 
 - [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~stefborg/), TU Dresden, Germany
 - [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), University of Oxford, UK
-- [Patrick Koopmann](https://lat.inf.tu-dresden.de/~koopmann/), TU Dresden, Germany
+- [Patrick Koopmann](https://research.vu.nl/en/persons/patrick-koopmann), Vrije Universiteit Amsterdam, The Netherlands
 - [Gabriele Röger](https://ai.dmi.unibas.ch/people/roeger/), University of Basel, Switzerland
