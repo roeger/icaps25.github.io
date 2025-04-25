@@ -25,7 +25,7 @@ approaches ranging from temporal reasoning about actions and goals,
 answer set planning, ontology-based planning specifications,
 epistemic planning, to planning under open-world semantics.
 
-Knowledge Representation Meets Automated Planning (KRPLAN) aims at
+Knowledge Representation Meets Automated Planning (KRPlan) aims at
 bringing together researchers from the fields of Knowledge
 Representation and Reasoning and Automated Planning to discuss and
 develop ideas for applying state-of-the-art techniques from KR and
