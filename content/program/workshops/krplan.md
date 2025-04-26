@@ -48,7 +48,7 @@ from these areas, including but not limited to:
 
 ## Important Dates
 
-* Paper submission: July 17, 2025 (TODO)
+* Paper submission: July 23, 2025
 * Notification: August 21, 2025
 * Workshop: November 11, 2025
 
@@ -56,9 +56,7 @@ from these areas, including but not limited to:
 
 We invite extended abstracts of 2-5 pages on topics related to both
 KR and Automated Planning. The papers should be formatted in Springer
-LNCS Style and can be submitted via EasyChair:
-
-  https://easychair.org/conferences/?conf=krplan25 (TODO)
+LNCS Style. Further instructions on the submission process will be available soon.
 
 The workshop will only have informal proceedings and the main
 purpose is to encourage discussions. We welcome not only papers
@@ -68,7 +66,6 @@ publications that fall within the scope of the workshop.
 ## Workshop Committee
 
 ### Organizing Committee
-You can contact us at TODO.
 
 - [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~stefborg/), TU Dresden, Germany
 - [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), University of Oxford, UK
