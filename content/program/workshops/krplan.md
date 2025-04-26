@@ -49,7 +49,7 @@ from these areas, including but not limited to:
 ## Important Dates
 
 * Paper submission: July 23, 2025
-* Notification: August 21, 2025
+* Notification: August 28, 2025
 * Workshop: November 11, 2025
 
 ## Submission
